@@ -1,0 +1,272 @@
+{
+  "basics": {
+    "name": "Hugo Serieys",
+    "label": "I am a french computer science student passionate by this field, I am always curious to discover new languages, algorithms and innovation about technology and science.",
+    "picture": "",
+    "birth": {
+      "date": "27 Avril 1997"
+    },
+    "email": "hugo.serieys@hotmail.fr",
+    "phone": "+(33)6 22 14 94 19",
+    "github": "https://github.com/hugoseri",
+    "linkedin": "https://www.linkedin.com/in/hugoserieys/",
+    "summary": "Etudiant en informatique",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Gardanne",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "EURA NOVA",
+      "position": "Stagiaire data science en recherche et développement",
+      "website": "",
+      "startDate": "2019-03-01",
+      "summary": "Stage réalisé au sein de l'équipe de recherche d'EURANOVA. Mon sujet de stage traite d'un sujet particulier de deep learning : l'adaptation de domaine appliqué sur des images.  (visual domain adaptation)    - Implémentation d'algorithmes à l'état de l'art à partir de publications, - Réalisation d'un comparatif de ces algorithmes, - Contribution originale.   Technologies utilisées : Python, Tensorflow 2.0, Pytest (TDD), Sphinx, Docker, Linux.",
+      "highlights": [],
+      "endDate": "2019-08-01"
+    },
+    {
+      "company": "École des Mines de Saint-Étienne",
+      "position": "Chef de projet industriel",
+      "website": "",
+      "startDate": "2018-09-01",
+      "summary": "J'ai participé, lors de ma formation à l'Ecole des Mines de Saint Etienne, à la réalisation d'un projet au sein d'une équipe d'étudiants en partenariat avec EURA NOVA.  L'objectif du projet était de réaliser une preuve de concept pour un outil d'analyse automatique de vidéos.  Grâce à notre travail d'équipe, nous avons pu réalisé : - un cahier des charges à partir des attentes du client, - une recherche bibliographique pour les éléments techniques nécessaires, - une réponse technique au cahier des charges (planning prévisionnel type GANTT, tâches à réaliser, outils à utiliser, évaluation des risques...), - un poster de présentation du projet.  Particulièrement intéressé par ce projet, je me suis investi en occupant le poste de chef de projet, où j'ai réalisé personnellement plusieurs tâches: - gestion globale du projet (répartition des tâches, prises de décisions...), - communication entre les différentes parties prenantes du projet (client, tuteur, équipe), - animation des réunions, - pitch de présentation du projet.",
+      "highlights": [],
+      "endDate": "2019-02-01"
+    },
+    {
+      "company": "M-GaTE -- Junior-Entreprise",
+      "position": "Développeur web",
+      "website": "",
+      "startDate": "2018-06-01",
+      "summary": "Réalisation d'une interface web pour la gestion d'objets connectés. Tâches réalisées : - système d'authentification sécurisé avec différents droits utilisateurs (administrateur et utilisateur, gestion des mots de passe oubliés) - base de données stockant :   - les informations relatives aux objets connectés   - les informations des utilisateurs - interface permettant de visualiser aisément les informations relatives aux objets connectés - interface administrateur pour la gestion des comptes utilisateurs - système de génération de fichiers personnalisés (CSV) contenant des informations relatives aux objets connectés - création automatique d'archives mensuelles des données récoltées par les objets connectés  Technologies utilisées : HTML, CSS (Bootstrap), Javascript (jQuery), PHP, MySQL, Git",
+      "highlights": [],
+      "endDate": "2019-03-01"
+    },
+    {
+      "company": "Direction des systèmes d'information des Ministères Sociaux",
+      "position": "Stagiaire",
+      "website": "",
+      "startDate": "2018-01-01",
+      "summary": "J'ai effectué mon stage d'un mois au sein du service support proximité de la DSI des Ministères sociaux à Paris. Les tâches réalisées étaient diverses : - utilisation d'un outil de ticketing pour gérer les demandes des utilisateurs - utilisation d'outils de gestion d'annuaires LDAP + requêteur pour gérer les droits d'accès utilisateurs - Réalisation de l'inventaire du stock tampon (PC, écrans...) disponible - maintenance informatique (problèmes d'imprimantes, d'ordinateurs...).  J'ai également eu la chance de découvrir l'incubateur de la DSI où des startups d'Etat y sont hébergées. J'ai pu passer une journée avec un développeur qui m'a montré ses méthodes de travail et les outils utilisés.",
+      "highlights": [],
+      "endDate": "2018-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "École des Mines de Saint-Étienne",
+      "area": "",
+      "studyType": "ISMIN",
+      "startDate": "Invalid date",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2020-01-01"
+    },
+    {
+      "institution": "Lycée Jules Ferry, Versailles",
+      "area": "",
+      "studyType": "Licence",
+      "startDate": "2015-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2017-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Illustrator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photographie numérique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SolidWorks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Lightroom",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Indesign",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UI/UX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Méthodes agiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tensorflow 2.0",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Japonais",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TIPE - Etude d'un goniomètre acoustique",
+      "startDate": "Invalid date",
+      "summary": "EN : During my two year course before engineering school, I did a research project (sort of a micro-thesis) about acoustic angle measuring systems : how to localize an acoustic source. I made many researches, experiments, simulations, contact with a researcher. Technology used : Python, cross-correlation.  --------  FR : Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur... Support : Python",
+      "url": "",
+      "endDate": "Invalid date"
+    },
+    {
+      "name": "Conception d'un robot",
+      "startDate": "Invalid date",
+      "summary": "EN : One year pair working project on a robot design including each steps of th conception. Tasks achieved : - soldering of electronics components - Study (experiments and simulation) of the components used on the microchip - software development conforming given specifications - Simulation and field tests.  Technologies used : Embedded C (timers, interruptions, UART...), I2C Protocol.  --------  FR : Projet sur un an en binôme de conception d'un robot passant par toutes les phases de conception. Tâches réalisées : - Soudure des composants pour la réalisation de la carte électronique - Etude (expérimentations et simulations) du fonctionnement des différents composants de la carte  - Développement logiciel du robot en réponse à un cahier des charges imposé - Tests en simulation et en réel du robot.  Technologies utilisées : C embarqué (timers, interruptions, UART...), I2C.",
+      "url": "",
+      "endDate": "Invalid date"
+    },
+    {
+      "name": "AES algorithm",
+      "startDate": "Invalid date",
+      "summary": "EN: This project is part of a cryptography course I have followed with my school. You can check the github link to see the whole code, written in C++. It's a really small project (I spent about 10 hours on it), but it enabled me to discover in details one of the most used symmetric-key cryptography algorithm.  --------  FR:  Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
+      "url": "https://github.com/hugoseri/AES"
+    },
+    {
+      "name": "Minesweeper (démineur)",
+      "startDate": "Invalid date",
+      "summary": "EN : Design of a connected minesweeper game in Java: - Game rules management, - User interface, - Network game management using sockets and threads.  ------  FR : Conception d'un jeu de démineur en réseau: - Gestion des règles du jeu, - Interface utilisateur, - Gestion du jeu en réseau à l'aide de threads et sockets.",
+      "url": "https://github.com/hugoseri/demineur"
+    },
+    {
+      "name": "Conception d'un robot 2",
+      "startDate": "Invalid date",
+      "summary": "EN : Design of a robot from conception to real tests : - Study before actual implementation: algorigrams, pseudo-code, robot architecture (superviser/controler), - Implementation in embedded C on STM32.  The robot is controlled by a smartphone using Bluetooth communication. It is able to move forward and backward at different speeds, and can park himself automaticaly at a saved position.  -------  FR : Conception d'un robot depuis la conception logique aux tests réels : - Etude préalable: algorigrammes, pseudo-code et architecture du robot (supervision/contrôle), - Implémentation en C embarqué sur STM32.  Le robot est contrôlé par un smartphone par Bluetooth. Il est capable d'avancer et reculer à différentes vitesses, et de se garer automatiquement à une position enregistrée.",
+      "url": "",
+      "endDate": "Invalid date"
+    }
+  ]
+}
