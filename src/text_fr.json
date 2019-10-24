@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "A propos",
+    "work_education": "Formation et expériences",
+    "skill": "Compétences",
+    "portfolio": "Portfolio"
+  },
+  "presentation": {
+    "hello": "Hello, moi c'est"
+  },
+  "tabs": {
+    "work": "Mes expériences professionnelles",
+    "date_connector_start": "De",
+    "date_connector_end": "à",
+    "education": "Ma formation"
+  }
+}

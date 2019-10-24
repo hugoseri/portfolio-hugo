@@ -63,19 +63,19 @@
       "institution": "École des Mines de Saint-Étienne",
       "area": "",
       "studyType": "ISMIN",
-      "startDate": "Invalid date",
+      "startDate": "2017-09-01",
       "gpa": "",
       "courses": [],
-      "endDate": "2020-01-01"
+      "endDate": "2020-10-01"
     },
     {
       "institution": "Lycée Jules Ferry, Versailles",
       "area": "",
       "studyType": "Licence",
-      "startDate": "2015-01-01",
+      "startDate": "2015-09-01",
       "gpa": "",
       "courses": [],
-      "endDate": "2017-01-01"
+      "endDate": "2017-07-01"
     }
   ],
   "skills": [

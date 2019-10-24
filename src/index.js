@@ -10,15 +10,6 @@ import * as serviceWorker from './serviceWorker';
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
 
-
-export let navigation = {
-        home: 'Accueil',
-        about: 'A propos',
-        work_education: 'Formation et expériences',
-        skill: 'Compétences',
-        portfolio: 'Portfolio'
-}
-
 ReactDOM.render(
     Routes.run(),
     document.getElementById('root')
