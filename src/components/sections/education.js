@@ -17,10 +17,9 @@ class Entry extends React.Component{
                         <p>{this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}</p>
                     </div>
                     <div className="media-body col-md-6">
-                        <h4>{this.props.entry.company}</h4>
-                        <h3>{this.props.entry.position}</h3>
-                        <p>{this.props.entry.summary}</p>
-                        <BulletPoints points={this.props.entry.highlights}/>
+                        <h4>{this.props.entry.institution}</h4>
+                        <h3>{this.props.entry.studyType}</h3>
+                        <BulletPoints points={this.props.entry.courses}/>
                     </div>
                 </div>
             </li>
@@ -28,15 +27,15 @@ class Entry extends React.Component{
     }
 };
 
-class Work extends React.Component{
+class Education extends React.Component{
 
     render() {
-        const numEntries = this.props.work.length;
+        const numEntries = this.props.education.length;
         const text = this.props.text;
         return (
-            <div className="tab-pane fade show active" id="work" role="tabpanel" aria-labelledby="home-tab">
+            <div className="tab-pane fade show" id="education" role="tabpanel" aria-labelledby="home-tab">
                 <ul className="list">
-                    {this.props.work.map(function (entry, index) {
+                    {this.props.education.map(function (entry, index) {
                         return (
                             <Entry key={index} index={index} total={numEntries} entry={entry} text={text}/>
                         );
@@ -47,4 +46,4 @@ class Work extends React.Component{
     }
 };
 
-export default Work;
+export default Education;

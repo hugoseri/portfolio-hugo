@@ -36,7 +36,7 @@
       "website": "",
       "startDate": "2018-09-01",
       "summary": "J'ai participé, lors de ma formation à l'Ecole des Mines de Saint Etienne, à la réalisation d'un projet au sein d'une équipe d'étudiants en partenariat avec EURA NOVA.  L'objectif du projet était de réaliser une preuve de concept pour un outil d'analyse automatique de vidéos.  Grâce à notre travail d'équipe, nous avons pu réalisé plusieurs choses.",
-      "highlights": ["Cahier des charges à partir des attentes du client", "Recherche bibliographique pour les éléments techniques nécessaires", "Réponse technique au cahier des charges (planning prévisionnel type GANTT, tâches à réaliser, outils à utiliser, évaluation des risques...)", "Animation des réunions", "Communication avec les différentes parties prenantes", "Gestion du projet", ",Poster et pitch de présentation du projet."],
+      "highlights": ["Cahier des charges à partir des attentes du client", "Recherche bibliographique pour les éléments techniques nécessaires", "Réponse technique au cahier des charges (planning prévisionnel type GANTT, tâches à réaliser, outils à utiliser, évaluation des risques...)", "Animation des réunions", "Communication avec les différentes parties prenantes", "Gestion du projet", "Poster et pitch de présentation du projet."],
       "endDate": "2019-02-01"
     },
     {
@@ -62,19 +62,19 @@
     {
       "institution": "École des Mines de Saint-Étienne",
       "area": "",
-      "studyType": "ISMIN",
+      "studyType": "Diplôme d'ingénieur en 3 ans",
       "startDate": "2017-09-01",
       "gpa": "",
-      "courses": [],
+      "courses": ["Programmation en C", "Programmation orientée objet en C++ et Java", "Développement web et mobile (NodeJS, TypeScript et Kotlin)", "Introduction au machine learning", "Introduction à la cryptographie (tp d'implémentation de AES en C++, voir projets)", "Bases de données en PostGreSQL", "C embarqué sur microcontrôleurs STM32 & PIC18 (voir projets)", "Assembleur sur microcontrôleur 8051", "Théorie des graphes et optimisation en C", "Architecture client/serveur en C", "Réseau avec Cisco Packet Tracer", "VHDL", "UML"],
       "endDate": "2020-10-01"
     },
     {
       "institution": "Lycée Jules Ferry, Versailles",
       "area": "",
-      "studyType": "Licence",
+      "studyType": "Classe préparatoire PTSI/PT",
       "startDate": "2015-09-01",
       "gpa": "",
-      "courses": [],
+      "courses": ["Mathématiques", "Physique", "Chimie", "Anglais" ,"Français/Philosophie", "Sciences de l'ingénieur"],
       "endDate": "2017-07-01"
     }
   ],

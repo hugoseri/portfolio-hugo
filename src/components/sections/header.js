@@ -2,10 +2,36 @@ import React from 'react'
 
 class Header extends React.Component {
 
+    componentDidMount() {
+        var scrollpos = window.scrollY;
+        var header = document.querySelector(".header_area");
+
+        function add_class_on_scroll() {
+            header.classList.add("navbar_fixed");
+        }
+
+        function remove_class_on_scroll() {
+            header.classList.remove("navbar_fixed");
+        }
+
+        window.addEventListener('scroll', function(){
+            //Here you forgot to update the value
+            scrollpos = window.scrollY;
+
+            if(scrollpos > 100){
+                add_class_on_scroll();
+            }
+            else {
+                remove_class_on_scroll();
+            }
+        });
+    }
+
+
     render() {
         return (
             <header className="header_area">
-                <div className="main_menu">
+                <div className="main_menu" id="home">
                     <nav className="navbar navbar-expand-lg navbar-light">
                         <div className="container box_1620">
                             <button className="navbar-toggler" type="button" data-toggle="collapse"
@@ -20,8 +46,8 @@ class Header extends React.Component {
                                     {Object.keys(this.props.nav).map(function (navigationLink, index) {
                                         const navigationName = this.props.nav[navigationLink];
                                         return (
-                                            <li className="nav-item active">
-                                                <a className='nav-link' href={navigationLink}>{navigationName}</a>
+                                            <li className="nav-item">
+                                                <a className='nav-link' href={`#${navigationLink}`}>{navigationName}</a>
                                             </li>
                                         );
                                     }.bind(this))}

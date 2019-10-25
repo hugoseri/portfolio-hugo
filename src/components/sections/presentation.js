@@ -10,7 +10,7 @@ class Presentation extends React.Component {
                         <div className="banner_content">
                             <div className="media">
                                 <div className="d-flex">
-                                    <img className="d-flex" src="img/personal.jpg" alt="me"/>
+                                    <img className="d-flex" src="img/me_black_small.png" alt="me"/>
                                 </div>
                                 <div className="media-body">
                                     <div className="personal_text">
