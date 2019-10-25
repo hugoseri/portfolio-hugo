@@ -1744,16 +1744,17 @@ h6 {
   height: 14px; }
 
 .unordered-list li {
+  margin-top:10px;
   position: relative;
   padding-left: 30px;
-  line-height: 1.82em !important; }
+  line-height: 1em !important; }
 
 .unordered-list li:before {
   content: "";
   position: absolute;
-  width: 14px;
-  height: 14px;
-  border: 3px solid #f8b600;
+  width: 7px;
+  height: 7px;
+  /*border: 1px solid #f8b600;*/
   background: #fff;
   top: 4px;
   left: 0;
@@ -2626,6 +2627,9 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li:last-child {
       margin-bottom: 0px; }
     .tabs_inner .tab-content .tab-pane .list li .media .d-flex {
+      text-align: right;
+      color: rgba(255, 255, 255, 0.75);
+      margin-bottom: 0px;
       padding-top: 20px; }
       .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
         margin-right: 50px;
@@ -2637,6 +2641,15 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li .media .media-body {
       text-align: left;
     }
+    .tabs_inner .tab-content .tab-pane .list li .media .media-body .unordered-list li {
+      line-height: 20px !important;
+      color: rgba(255, 255, 255, 0.75);
+      margin-bottom: 0px;
+    }
+    .tabs_inner .tab-content .tab-pane .list li .media .media-body h3 {
+      color: #fff;
+    }
+
     .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 {
       color: #fff;
       font-size: 21px;

@@ -1,5 +1,6 @@
 import React from 'react'
 import Datetime from "../../utils/datetime";
+import BulletPoints from "./bullet_points";
 
 class Entry extends React.Component{
 
@@ -21,6 +22,7 @@ class Entry extends React.Component{
                         <h4>{this.props.entry.company}</h4>
                         <h3>{this.props.entry.position}</h3>
                         <p>{this.props.entry.summary}</p>
+                        <BulletPoints points={this.props.entry.highlights}/>
                     </div>
                 </div>
             </li>
