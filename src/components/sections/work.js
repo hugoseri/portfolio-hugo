@@ -15,7 +15,7 @@ class Entry extends React.Component{
                 <span></span>
                 <div className="media col-md-12">
                     <div className="d-flex col-md-6">
-                        {this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}
+                        <p>{this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}</p>
                     </div>
                     <div className="media-body col-md-6">
                         <h4>{this.props.entry.company}</h4>

@@ -2626,22 +2626,23 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li:last-child {
       margin-bottom: 0px; }
     .tabs_inner .tab-content .tab-pane .list li .media .d-flex {
-      text-align: right;
-      color: rgba(255, 255, 255, 0.75);
-      margin-bottom: 0px;
       padding-top: 20px; }
       .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
+        margin-right: 50px;
+        text-align: right;
+        width: 100%;
         color: rgba(255, 255, 255, 0.75);
         margin-bottom: 0px;
-        padding-top: 20px; }
-    .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 {
+        padding-top: 0px; }
+    .tabs_inner .tab-content .tab-pane .list li .media .media-body {
       text-align: left;
+    }
+    .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 {
       color: #fff;
       font-size: 21px;
       text-transform: uppercase;
       margin-bottom: 20px; }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
-      text-align: left;
       color: rgba(255, 255, 255, 0.75);
       margin-bottom: 0px; }
 
