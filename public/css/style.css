@@ -1753,7 +1753,7 @@ h6 {
   width: 7px;
   height: 7px;
   /*border: 1px solid #f8b600;*/
-  background: #fff;
+  background: #777;
   top: 4px;
   left: 0;
   border-radius: 50%; }
@@ -2558,9 +2558,9 @@ h6 {
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
-  background-image: -webkit-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
-  background-image: -ms-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%); }
+  background-image: -moz-linear-gradient(0deg, #FFF 0%, #FFF 100%);
+  background-image: -webkit-linear-gradient(0deg, #FFF 0%, #FFF 100%);
+  background-image: -ms-linear-gradient(0deg, #FFF 0%, #FFF 100%); }
 
 .tabs_inner .nav.nav-tabs {
   display: block;
@@ -2577,7 +2577,7 @@ h6 {
       padding: 0px 40px;
       font-size: 13px;
       font-weight: 500;
-      color: #fff;
+      color: #777777;
       font-family: "Roboto", sans-serif;
       border: 1px solid #9ab5f5;
       background: rgba(255, 255, 255, 0.1); }
@@ -2594,7 +2594,7 @@ h6 {
     content: "";
     height: 100%;
     width: 5px;
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(200, 200, 200, 0.2);
     position: absolute;
     left: 45.7%;
     transform: translateX(-50%);
@@ -2607,7 +2607,7 @@ h6 {
       width: 15px;
       border-radius: 50%;
       display: block;
-      background: rgba(255, 255, 255, 0.2);
+      background: rgba(200, 200, 200, 0.2);
       position: absolute;
       left: 46%;
       top: 30px;
@@ -2616,7 +2616,7 @@ h6 {
         content: '';
         height: 7px;
         width: 7px;
-        background: #fff;
+        background: #777777;
         border-radius: 50%;
         position: absolute;
         left: 52%;
@@ -2626,14 +2626,16 @@ h6 {
       margin-bottom: 0px; }
     .tabs_inner .tab-content .tab-pane .list li .media .d-flex {
       text-align: right;
-      color: rgba(255, 255, 255, 0.75);
+      /*color: rgba(255, 255, 255, 0.75);*/
+      color: #777777;
       margin-bottom: 0px;
       padding-top: 20px; }
       .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
         margin-right: 50px;
         text-align: right;
         width: 100%;
-        color: rgba(255, 255, 255, 0.75);
+        color: #777777;
+        /*color: rgba(255, 255, 255, 0.75);*/
         margin-bottom: 0px;
         padding-top: 0px; }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body {
@@ -2642,20 +2644,22 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li .media .media-body .unordered-list li {
       margin-right: 20px;
       line-height: 20px !important;
-      color: rgba(255, 255, 255, 0.75);
+      color: #777777;
+      /*color: rgba(255, 255, 255, 0.75);*/
       margin-bottom: 0px;
     }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body h3 {
-      color: #fff;
+      color: #FF9A63;
     }
 
     .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 {
-      color: #fff;
+      color: #FF9A63;
       font-size: 21px;
       text-transform: uppercase;
       margin-bottom: 20px; }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
-      color: rgba(255, 255, 255, 0.75);
+      color: #777777;
+      /*color: rgba(255, 255, 255, 0.75);*/
       margin-bottom: 0px; }
 
 /* End My Tabs Area css
