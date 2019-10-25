@@ -14,5 +14,8 @@
     "date_connector_start": "De",
     "date_connector_end": "à",
     "education": "Ma formation"
+  },
+  "skills": {
+    "title": "Mes compétences"
   }
 }

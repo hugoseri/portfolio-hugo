@@ -80,144 +80,34 @@
   ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Adobe Illustrator",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Photographie numérique",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Adobe Photoshop",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SolidWorks",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Adobe Lightroom",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Adobe Indesign",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bootstrap",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web design",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "WordPress",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Développement web",
       "level": "",
-      "keywords": []
+      "keywords": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery", "React", "PHP", "WordPress"]
     },
     {
-      "name": "UI/UX",
+      "name": "Développement général",
       "level": "",
-      "keywords": []
+      "keywords": ["Python", "C", "C++", "Java", "MatLab", "TensorFlow 2.0", "C embarqué", "VHDL"]
     },
     {
-      "name": "Microsoft Excel",
+      "name": "Bases de données",
       "level": "",
-      "keywords": []
+      "keywords": ["MySQL", "PostGreSQL"]
     },
     {
-      "name": "Git",
+      "name": "Graphisme et compétences artistiques",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Matlab",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Méthodes agiles",
-      "level": "",
-      "keywords": []
+      "keywords": ["Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom", "Adobe Indesign", "Photographie numérique"]
     },
     {
       "name": "Gestion de projet",
       "level": "",
-      "keywords": []
+      "keywords": ["Git", "Scrum"]
     },
     {
-      "name": "Tensorflow 2.0",
+      "name": "Autre compétences techniques",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
+      "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
     }
   ],
   "languages": [

@@ -1516,22 +1516,22 @@ h6 {
 
 .genric-btn.primary {
   color: #fff;
-  background: #f8b600;
+  background: #f2c24b;
   border: 1px solid transparent; }
 
 .genric-btn.primary:hover {
-  color: #f8b600;
-  border: 1px solid #f8b600;
+  color: #f2c24b;
+  border: 1px solid #f2c24b;
   background: #fff; }
 
 .genric-btn.primary-border {
-  color: #f8b600;
-  border: 1px solid #f8b600;
+  color: #f2c24b;
+  border: 1px solid #f2c24b;
   background: #fff; }
 
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #f8b600;
+  background: #f2c24b;
   border: 1px solid transparent; }
 
 .genric-btn.success {
@@ -2579,11 +2579,11 @@ h6 {
       font-weight: 500;
       color: #777777;
       font-family: "Roboto", sans-serif;
-      border: 1px solid #9ab5f5;
+      border: 1px solid rgba(200, 200, 200, 0.5);
       background: rgba(255, 255, 255, 0.1); }
       .tabs_inner .nav.nav-tabs li a.active {
-        background: #fff;
-        color: #222222; }
+        background: #FF9A63;
+        color: #ffffff; }
 .tabs_inner .tab-content .tab-pane .list {
   /*max-width: 460px;*/
   margin: auto;
@@ -2715,7 +2715,7 @@ h6 {
     border-color: #fff;
     background: #fff; }
     .feature_item:hover i:before {
-      background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+      background: linear-gradient(to right, #8490ff 0%, #f2c24b 70%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
 
@@ -2770,7 +2770,7 @@ h6 {
       top: 50%;
       transform: translateY(-50%);
       font-size: 20px;
-      color: #766dff; }
+      color: #FF9A63; }
   .personal_text .basic_info li:last-child {
     margin-bottom: 0px; }
 .personal_text .personal_social {
@@ -2790,9 +2790,9 @@ h6 {
       color: #fff;
       font-size: 16px; }
     .personal_text .personal_social li:hover a {
-      background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-      background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-      background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
+      background-image: -moz-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
+      background-image: -webkit-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
+      background-image: -ms-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%); }
 
 /* End Personal Profile Area css
 ============================================================================================ */

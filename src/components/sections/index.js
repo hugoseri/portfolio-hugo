@@ -4,6 +4,7 @@ import Header from './header'
 import Presentation from './presentation'
 import Tabs from './tabs'
 import Footer from './footer'
+import Skills from "./skills";
 
 class Section extends React.Component{
 
@@ -16,6 +17,7 @@ class Section extends React.Component{
                 <Tabs resume={this.props.resume}
                       tabs_text={this.props.additional_text.tabs}>
                 </Tabs>
+                <Skills skills={this.props.resume.skills} skills_text={this.props.additional_text.skills}/>
                 <Footer/>
             </div>
         );

@@ -11,6 +11,8 @@
 # production
 /build
 
+/public/index2.html
+
 # misc
 .DS_Store
 .env.local
