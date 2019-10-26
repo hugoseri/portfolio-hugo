@@ -31,8 +31,6 @@ class SkillType extends React.Component{
 class Skills extends React.Component{
 
     render() {
-        const numEntries = this.props.skills.length;
-
         return (
             <section className="feature_area p_120" id="skill">
                 <div className="container">

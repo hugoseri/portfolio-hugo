@@ -1,6 +1,5 @@
 import React from 'react'
 
-import {navigation} from "../index";
 import resume from "../resume_fr.json"
 import additional_text from "../text_fr.json"
 

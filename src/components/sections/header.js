@@ -46,8 +46,8 @@ class Header extends React.Component {
                                     {Object.keys(this.props.nav).map(function (navigationLink, index) {
                                         const navigationName = this.props.nav[navigationLink];
                                         return (
-                                            <li className="nav-item">
-                                                <a className='nav-link' href={`#${navigationLink}`}>{navigationName}</a>
+                                            <li key={index} className="nav-item">
+                                                <a className='nav-link' key={index} href={`#${navigationLink}`}>{navigationName}</a>
                                             </li>
                                         );
                                     }.bind(this))}

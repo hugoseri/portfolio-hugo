@@ -5,9 +5,9 @@ class BulletPoints extends React.Component{
     render() {
         return (
             <ul className="unordered-list">
-                {this.props.points.map(function (point) {
+                {this.props.points.map(function (point, index) {
                     return (
-                        <li>{point}</li>
+                        <li key={index}>{point}</li>
                     );
                 })}
             </ul>

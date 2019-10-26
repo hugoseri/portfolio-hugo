@@ -2,8 +2,7 @@
   "navigation": {
     "home": "Profil",
     "work_education": "Formation et expériences",
-    "skill": "Compétences",
-    "portfolio": "Portfolio"
+    "skill": "Compétences"
   },
   "presentation": {
     "hello": "Hello, moi c'est"
