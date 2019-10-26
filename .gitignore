@@ -12,6 +12,7 @@
 /build
 
 /public/index2.html
+/public/elements.html
 
 # misc
 .DS_Store

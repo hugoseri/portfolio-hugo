@@ -2547,26 +2547,30 @@ h6 {
 
 .tools_expert {
   padding: 20px 0px 0px 0px; }
-  .tools_expert .skill_main .skill_item {
+  .skill_main .skill_item {
     margin-bottom: 18px; }
-    .tools_expert .skill_main .skill_item:last-child {
+    .skill_item:last-child {
       margin-bottom: 0px; }
-    .tools_expert .skill_main .skill_item h4 {
+    .skill_item {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    .skill_item h4 {
       text-align: none;
       font-size: 14px;
       font-family: "Roboto", sans-serif;
       font-weight: 500;
       color: #222222;
       margin-bottom: 15px; }
-    .tools_expert .skill_main .skill_item .progress_br {
+    .skill_item .progress_br {
       border: 1px solid #eeeeee;
       padding: 5px;
       border-radius: 10px; }
-    .tools_expert .skill_main .skill_item .progress {
+    .skill_item .progress {
       height: 10px;
       border-radius: 10px;
       background: #e8e8e8; }
-      .tools_expert .skill_main .skill_item .progress .progress-bar {
+      .skill_item .progress .progress-bar {
         width: 0%;
         transition: width .6s ease;
         height: 10px;

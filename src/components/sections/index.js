@@ -17,7 +17,10 @@ class Section extends React.Component{
                 <Tabs resume={this.props.resume}
                       tabs_text={this.props.additional_text.tabs}>
                 </Tabs>
-                <Skills skills={this.props.resume.skills} skills_text={this.props.additional_text.skills}/>
+                <Skills skills={this.props.resume.skills}
+                        languages={this.props.resume.languages}
+                        languages_text={this.props.additional_text.languages}
+                        skills_text={this.props.additional_text.skills}/>
                 <Footer/>
             </div>
         );

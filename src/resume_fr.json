@@ -117,15 +117,18 @@
   "languages": [
     {
       "language": "Anglais",
-      "fluency": "Professional working proficiency"
+      "fluency": "Courant",
+      "percent": "70"
     },
     {
       "language": "Espagnol",
-      "fluency": "Elementary proficiency"
+      "fluency": "Notions",
+      "percent": "30"
     },
     {
       "language": "Japonais",
-      "fluency": "Elementary proficiency"
+      "fluency": "Débutant",
+      "percent": "10"
     }
   ],
   "projects": [

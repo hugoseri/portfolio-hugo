@@ -15,5 +15,8 @@
   },
   "skills": {
     "title": "Mes compétences"
+  },
+  "languages": {
+    "title": "Langues"
   }
 }
