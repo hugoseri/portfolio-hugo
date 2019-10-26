@@ -2,6 +2,17 @@ import React from 'react'
 import Datetime from "../../utils/datetime";
 import BulletPoints from "./bullet_points";
 
+
+class SkillEntry extends React.Component{
+
+    render() {
+
+        return (
+            <button className="genric-btn skill circle">{this.props.entry}</button>
+        );
+    }
+};
+
 class Entry extends React.Component{
 
     render() {
@@ -16,11 +27,16 @@ class Entry extends React.Component{
                     <div className="d-flex col-md-6">
                         <p>{this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}</p>
                     </div>
-                    <div className="media-body col-md-6">
+                    <div className="media-body col-md-6 button-group-area">
                         <h4>{this.props.entry.company}</h4>
                         <h3>{this.props.entry.position}</h3>
                         <p>{this.props.entry.summary}</p>
                         <BulletPoints points={this.props.entry.highlights}/>
+                        {this.props.entry.skills.map(function (entry, index) {
+                            return (
+                                <SkillEntry key={index} index={index} entry={entry}/>
+                            );
+                        })}
                     </div>
                 </div>
             </li>

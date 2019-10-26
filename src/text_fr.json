@@ -1,7 +1,6 @@
 {
   "navigation": {
-    "home": "Accueil",
-    "about": "A propos",
+    "home": "Profil",
     "work_education": "Formation et expériences",
     "skill": "Compétences",
     "portfolio": "Portfolio"

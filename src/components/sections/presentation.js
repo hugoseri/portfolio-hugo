@@ -19,12 +19,12 @@ class Presentation extends React.Component {
                                         <h4>{this.props.basics.summary}</h4>
                                         <p>{this.props.basics.label}</p>
                                         <ul className="list basic_info">
-                                            <li><a href="#"><i className="lnr lnr-calendar-full"></i></a>{this.props.basics.birth.date}</li>
-                                            <li><a href="#"><i className="lnr lnr-phone-handset"></i></a>{this.props.basics.phone}
+                                            <li><a href="#/"><i className="lnr lnr-calendar-full"></i></a>{this.props.basics.birth.date}</li>
+                                            <li><a href="#/"><i className="lnr lnr-phone-handset"></i></a>{this.props.basics.phone}
                                             </li>
-                                            <li><a href="#"><i className="lnr lnr-envelope"></i></a>{this.props.basics.email}
+                                            <li><a href="#/"><i className="lnr lnr-envelope"></i></a>{this.props.basics.email}
                                             </li>
-                                            <li><a href="#"><i className="lnr lnr-home"></i></a>{this.props.basics.location.city}, {this.props.basics.location.countryCode}
+                                            <li><a href="#/"><i className="lnr lnr-home"></i></a>{this.props.basics.location.city}, {this.props.basics.location.countryCode}
                                             </li>
                                         </ul>
                                         <ul className="list personal_social">

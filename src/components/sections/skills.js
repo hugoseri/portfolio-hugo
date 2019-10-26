@@ -5,7 +5,7 @@ class Entry extends React.Component{
 
     render() {
         return (
-            <a href="#" className="genric-btn primary circle">{this.props.entry}</a>
+            <button className="genric-btn primary circle">{this.props.entry}</button>
         );
     }
 };

@@ -318,20 +318,23 @@ button:focus {
     padding: 30px;
     box-shadow: 0px 20px 80px 0px rgba(153, 153, 153, 0.3); }
   .home_banner_area .banner_inner {
+    display: flex;
     position: relative;
     width: 100%;
     min-height: 700px;
-    display: flex; }
+    align-items: center; }
     .home_banner_area .banner_inner .banner_content {
       color: #222222;
+      width: 100%;
+      display: flex;
+      align-items: center;
       vertical-align: middle;
-      align-self: center;
       text-align: left; }
       .home_banner_area .banner_inner .banner_content .media .d-flex {
         border-radius: 12px;
-        padding-right: 125px;
       }
       .home_banner_area .banner_inner .banner_content .media .media-body {
+        padding-left: 5%;
         vertical-align: middle;
         align-self: center; }
 
@@ -1534,6 +1537,27 @@ h6 {
   background: #f2c24b;
   border: 1px solid transparent; }
 
+
+.genric-btn.skill:hover {
+  color: #fff;
+  background: #ff9a63;
+  border: 1px solid transparent; }
+
+.genric-btn.skill {
+  color: #ff9a63;
+  border: 1px solid #ff9a63;
+  background: #fff; }
+
+.genric-btn.skill-border:hover {
+  color: #ff9a63;
+  border: 1px solid #ff9a63;
+  background: #fff; }
+
+.genric-btn.skill-border {
+  color: #fff;
+  background: #ff9a63;
+  border: 1px solid transparent; }
+
 .genric-btn.success {
   color: #fff;
   background: #4cd3e3;
@@ -2661,6 +2685,7 @@ h6 {
       color: #777777;
       /*color: rgba(255, 255, 255, 0.75);*/
       margin-bottom: 0px; }
+
 
 /* End My Tabs Area css
 ============================================================================================ */

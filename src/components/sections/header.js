@@ -30,8 +30,8 @@ class Header extends React.Component {
 
     render() {
         return (
-            <header className="header_area">
-                <div className="main_menu" id="home">
+            <header className="header_area" id="home">
+                <div className="main_menu">
                     <nav className="navbar navbar-expand-lg navbar-light">
                         <div className="container box_1620">
                             <button className="navbar-toggler" type="button" data-toggle="collapse"
