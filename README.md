@@ -1,3 +1,6 @@
+## Motivation
+The goal of this project was to develop a portfolio website to present myself and to discover a trendy JavaScript framework: [ReactJS](https://fr.reactjs.org).
+
 ## About
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).   
