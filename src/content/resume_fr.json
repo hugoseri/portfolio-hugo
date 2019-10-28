@@ -134,40 +134,48 @@
   "projects": [
     {
       "name": "TIPE - Etude d'un goniomètre acoustique",
-      "startDate": "Invalid date",
-      "summary": "Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur... Support : Python",
+      "startDate": "2016-01-01",
+      "summary": "Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur...",
+      "highlights": [],
+      "skills": ["Python"],
       "url": "",
-      "endDate": "Invalid date"
+      "endDate": "2017-07-01"
     },
     {
       "name": "Conception d'un robot",
-      "startDate": "Invalid date",
-      "summary": "Projet sur un an en binôme de conception d'un robot passant par toutes les phases de conception. Tâches réalisées : - Soudure des composants pour la réalisation de la carte électronique - Etude (expérimentations et simulations) du fonctionnement des différents composants de la carte  - Développement logiciel du robot en réponse à un cahier des charges imposé - Tests en simulation et en réel du robot.  Technologies utilisées : C embarqué (timers, interruptions, UART...), I2C.",
-      "highlights": [],
+      "startDate": "2017-10-01",
+      "summary": "Projet sur un an en binôme de conception d'un robot passant par toutes les phases de conception.",
+      "highlights": ["Soudure des composants pour la réalisation de la carte électronique", "Etude (expérimentations et simulations) du fonctionnement des différents composants de la carte", "Développement logiciel du robot en réponse à un cahier des charges imposé", "Tests en simulation et en réel du robot"],
+      "skills": ["C embarqué (timers, interruptions, UART...)", "I2C"],
       "url": "",
-      "endDate": "Invalid date"
+      "endDate": "2018-06-01"
     },
     {
-      "name": "AES algorithm",
-      "startDate": "Invalid date",
+      "name": "Algorithme AES",
+      "startDate": "2018-10-01",
       "summary": "Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
       "highlights": [],
-      "url": "https://github.com/hugoseri/AES"
+      "skills": ["C++"],
+      "url": "https://github.com/hugoseri/AES",
+      "endDate": "2018-11-01"
     },
     {
-      "name": "Minesweeper (démineur)",
-      "startDate": "Invalid date",
+      "name": "Jeu de démineur connecté",
+      "startDate": "2019-09-01",
       "summary": "Conception d'un jeu de démineur en réseau",
       "highlights": ["Gestion des règles du jeu", "Interface utilisateur", "Gestion du jeu en réseau à l'aide de threads et sockets."],
-      "url": "https://github.com/hugoseri/demineur"
+      "skills": ["Java"],
+      "url": "https://github.com/hugoseri/demineur",
+      "endDate": "2019-10-01"
     },
     {
-      "name": "Conception d'un robot 2",
-      "startDate": "Invalid date",
+      "name": "Conception d'un robot",
+      "startDate": "2018-09-01",
       "summary": "Conception d'un robot depuis la conception logique aux tests réels. Le robot est contrôlé par un smartphone par Bluetooth. Il est capable d'avancer et reculer à différentes vitesses, et de se garer automatiquement à une position enregistrée.",
       "highlights": [ "Etude préalable: algorigrammes, pseudo-code et architecture du robot (supervision/contrôle)", "Implémentation en C embarqué sur STM32."],
+      "skills": ["Embedded C", "STM32", "Bluetooth"],
       "url": "",
-      "endDate": "Invalid date"
+      "endDate": "2019-01-01"
     }
   ]
 }
