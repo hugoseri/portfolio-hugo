@@ -19,10 +19,15 @@ class Tabs extends React.Component{
                                 <a className="nav-link" id="education-tab" data-toggle="tab" href="#education" role="tab"
                                    aria-controls="education" aria-selected="false">{this.props.tabs_text.education}</a>
                             </li>
-                                <div className="tab-content" id="myTabContent">
-                                    <Work lg={this.props.lg} work={this.props.resume.work} text={this.props.tabs_text}/>
-                                    <Education lg={this.props.lg} education={this.props.resume.education} text={this.props.tabs_text}/>
-                                </div>
+                            <li className="nav-item">
+                                <a className="nav-link" id="volunteer-tab" data-toggle="tab" href="#volunteer" role="tab"
+                                   aria-controls="volunteer" aria-selected="false">{this.props.tabs_text.volunteer}</a>
+                            </li>
+                            <div className="tab-content" id="myTabContent">
+                                <Work type="work" lg={this.props.lg} work={this.props.resume.work} text={this.props.tabs_text}/>
+                                <Work type="volunteer" lg={this.props.lg} work={this.props.resume.volunteer} text={this.props.tabs_text}/>
+                                <Education lg={this.props.lg} education={this.props.resume.education} text={this.props.tabs_text}/>
+                            </div>
                         </ul>
                     </div>
                 </div>

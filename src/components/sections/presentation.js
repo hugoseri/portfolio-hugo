@@ -28,8 +28,8 @@ class Presentation extends React.Component {
                                             </li>
                                         </ul>
                                         <ul className="list personal_social">
-                                            <li><a href={this.props.basics.github}><i className="fa fa-github"></i></a></li>
-                                            <li><a href={this.props.basics.linkedin}><i className="fa fa-linkedin"></i></a></li>
+                                            <li><a href={this.props.basics.github} target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
+                                            <li><a href={this.props.basics.linkedin} target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
