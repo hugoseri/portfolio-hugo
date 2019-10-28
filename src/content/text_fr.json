@@ -11,9 +11,13 @@
     "work": "Mes expériences professionnelles",
     "date_connector_start": "De",
     "date_connector_end": "à",
-    "education": "Ma formation"
+    "education": "Ma formation",
+    "volunteer": "Bénévolat"
   },
   "skills": {
     "title": "Mes compétences"
+  },
+  "languages": {
+    "title": "Langues"
   }
 }

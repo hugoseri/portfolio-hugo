@@ -24,7 +24,7 @@
     {
       "company": "EURA NOVA",
       "position": "Stagiaire data science en recherche et développement",
-      "website": "",
+      "website": "https://euranova.eu/",
       "startDate": "2019-03-01",
       "summary": "Stage réalisé au sein de l'équipe de recherche d'EURANOVA. Mon sujet de stage traite d'un sujet particulier de deep learning : l'adaptation de domaine appliqué sur des images. (visual domain adaptation)",
       "highlights": ["Implémentation d'algorithmes à l'état de l'art à partir de publications", "Réalisation d'un comparatif de ces algorithmes", "Contribution originale : publication d'un papier."],
@@ -34,7 +34,7 @@
     {
       "company": "École des Mines de Saint-Étienne",
       "position": "Chef de projet industriel",
-      "website": "",
+      "website": "https://www.mines-stetienne.fr/formation/ismin/",
       "startDate": "2018-09-01",
       "summary": "J'ai participé, lors de ma formation à l'Ecole des Mines de Saint Etienne, à la réalisation d'un projet au sein d'une équipe d'étudiants en partenariat avec EURA NOVA.  L'objectif du projet était de réaliser une preuve de concept pour un outil d'analyse automatique de vidéos.  Grâce à notre travail d'équipe, nous avons pu réalisé plusieurs choses.",
       "highlights": ["Cahier des charges à partir des attentes du client", "Recherche bibliographique pour les éléments techniques nécessaires", "Réponse technique au cahier des charges (planning prévisionnel type GANTT, tâches à réaliser, outils à utiliser, évaluation des risques...)", "Animation des réunions", "Communication avec les différentes parties prenantes", "Gestion du projet", "Poster et pitch de présentation du projet."],
@@ -44,7 +44,7 @@
     {
       "company": "M-GaTE - Junior-Entreprise",
       "position": "Développeur web",
-      "website": "",
+      "website": "https://www.mgate.fr/",
       "startDate": "2018-06-01",
       "summary": "Réalisation d'une interface web pour la gestion d'objets connectés.",
       "highlights": ["Système d'authentification sécurisé avec différents droits utilisateurs (administrateur et utilisateur, gestion des mots de passe oubliés)", "Base de données stockant les informations relatives aux objets connectés et les informations des utilisateurs", "Interface permettant de visualiser aisément les informations relatives aux objets connectés", "Interface administrateur pour la gestion des comptes utilisateurs", "Système de génération de fichiers personnalisés (CSV) contenant des informations relatives aux objets connectés", "Création automatique d'archives mensuelles des données récoltées par les objets connectés"],
@@ -54,12 +54,44 @@
     {
       "company": "Direction des systèmes d'information des Ministères Sociaux",
       "position": "Stagiaire",
-      "website": "",
+      "website": "https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/dsi-direction-des-systemes-d-information",
       "startDate": "2018-01-01",
       "summary": "J'ai effectué mon stage d'un mois au sein du service support proximité de la DSI des Ministères sociaux à Paris. Les tâches réalisées étaient diverses.",
       "highlights": ["Utilisation d'un outil de ticketing pour gérer les demandes des utilisateurs", "Utilisation d'outils de gestion d'annuaires LDAP + requêteur pour gérer les droits d'accès utilisateurs", "Réalisation de l'inventaire du stock tampon (PC, écrans...) disponible", "Maintenance informatique (problèmes d'imprimantes, d'ordinateurs...).",  "J'ai également eu la chance de découvrir l'incubateur de la DSI où des startups d'Etat y sont hébergées. J'ai pu passer une journée avec un développeur qui m'a montré ses méthodes de travail et les outils utilisés."],
       "skills": [],
-      "endDate": "2018-01-01"
+      "endDate": "2018-01-31"
+    }
+  ],
+  "volunteer": [
+    {
+      "company": "Forum Entreprises ISMIN",
+      "position": "Développeur web",
+      "website": "https://forum-ismin.com",
+      "startDate": "2019-01-01",
+      "summary": "Intégré au sein du pôle numérique de l'association, mon rôle était de m'occuper du site internet.",
+      "highlights": ["Retouches visuelles sur la nouvelle version", "Adaptation pour tous les supports (smartphones et tablettes)", "Déploiement sur internet"],
+      "skills": ["HTML", "CSS (Bootstrap)", "JavaScript (jQuery)", "Git", "PHP (Laravel)"],
+      "endDate": "2019-11-01"
+    },
+    {
+      "company": "Boostrco",
+      "position": "Développeur web",
+      "website": "https://www.boostrco.com/",
+      "startDate": "2018-03-01",
+      "summary": "Intégré au sein de l'équipe du projet, j'ai apporté mon soutien au développeur principal pour maintenir le site web.",
+      "highlights": ["Mise en place d'un dépôt GitHub pour faciliter le travail d'équipe et la gestion de projet", "Modifications sur le front-end"],
+      "skills": ["HTML", "CSS", "JavaScript (jQuery)", "Git"],
+      "endDate": "2018-04-01"
+    },
+    {
+      "company": "Illu-Mines",
+      "position": "Bénévole",
+      "website": "http://illu-mines.emse.fr/",
+      "startDate": "2017-09-01",
+      "summary": "Aide à l'organisation, l'animation d'évènements pour l'association Illu-Mines qui a pour but de faire de la vulgarisation scientifique lors d'évènements tels que la Gaming Gen ou la fête de la science.",
+      "highlights": [],
+      "skills": ["Vulgarisation"],
+      "endDate": "2017-12-01"
     }
   ],
   "education": [
@@ -69,7 +101,7 @@
       "studyType": "Diplôme d'ingénieur en 3 ans",
       "startDate": "2017-09-01",
       "gpa": "",
-      "courses": ["Programmation en C", "Programmation orientée objet en C++ et Java", "Développement web et mobile (NodeJS, TypeScript et Kotlin)", "Introduction au machine learning", "Introduction à la cryptographie (tp d'implémentation de AES en C++, voir projets)", "Bases de données en PostGreSQL", "C embarqué sur microcontrôleurs STM32 & PIC18 (voir projets)", "Assembleur sur microcontrôleur 8051", "Théorie des graphes et optimisation en C", "Architecture client/serveur en C", "Réseau avec Cisco Packet Tracer", "VHDL", "UML"],
+      "courses": ["Programmation en C", "Programmation orientée objet en C++ et Java", "Développement web et mobile (NodeJS, TypeScript et Kotlin)", "Introduction au machine learning", "Introduction à la cryptographie (tp d'implémentation de AES en C++, voir projets)", "Bases de données en PostGreSQL et avec Glassfish", "C embarqué sur microcontrôleurs STM32 & PIC18 (voir projets)", "Assembleur sur microcontrôleur 8051", "Théorie des graphes et optimisation en C", "Architecture client/serveur en C", "Réseau avec Cisco Packet Tracer", "VHDL", "UML"],
       "endDate": "2020-10-01"
     },
     {
@@ -91,7 +123,7 @@
     {
       "name": "Développement général",
       "level": "",
-      "keywords": ["Python", "C", "C++", "Java", "MatLab", "TensorFlow 2.0", "C embarqué", "VHDL"]
+      "keywords": ["Python", "C", "C++", "Java", "GlassFish", "MatLab", "TensorFlow 2.0", "C embarqué", "VHDL"]
     },
     {
       "name": "Bases de données",
@@ -117,54 +149,65 @@
   "languages": [
     {
       "language": "Anglais",
-      "fluency": "Professional working proficiency"
+      "fluency": "Courant",
+      "percent": "70"
     },
     {
       "language": "Espagnol",
-      "fluency": "Elementary proficiency"
+      "fluency": "Notions",
+      "percent": "30"
     },
     {
       "language": "Japonais",
-      "fluency": "Elementary proficiency"
+      "fluency": "Débutant",
+      "percent": "10"
     }
   ],
   "projects": [
     {
-      "name": "TIPE - Etude d'un goniomètre acoustique",
-      "startDate": "Invalid date",
-      "summary": "Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur... Support : Python",
-      "url": "",
-      "endDate": "Invalid date"
+      "name": "Jeu de démineur connecté",
+      "startDate": "2019-09-01",
+      "summary": "Conception d'un jeu de démineur en réseau",
+      "highlights": ["Gestion des règles du jeu", "Interface utilisateur", "Gestion du jeu en réseau à l'aide de threads et sockets."],
+      "skills": ["Java"],
+      "url": "https://github.com/hugoseri/demineur",
+      "endDate": "2019-10-01"
     },
     {
       "name": "Conception d'un robot",
-      "startDate": "Invalid date",
-      "summary": "Projet sur un an en binôme de conception d'un robot passant par toutes les phases de conception. Tâches réalisées : - Soudure des composants pour la réalisation de la carte électronique - Etude (expérimentations et simulations) du fonctionnement des différents composants de la carte  - Développement logiciel du robot en réponse à un cahier des charges imposé - Tests en simulation et en réel du robot.  Technologies utilisées : C embarqué (timers, interruptions, UART...), I2C.",
-      "highlights": [],
-      "url": "",
-      "endDate": "Invalid date"
-    },
-    {
-      "name": "AES algorithm",
-      "startDate": "Invalid date",
-      "summary": "Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
-      "highlights": [],
-      "url": "https://github.com/hugoseri/AES"
-    },
-    {
-      "name": "Minesweeper (démineur)",
-      "startDate": "Invalid date",
-      "summary": "Conception d'un jeu de démineur en réseau",
-      "highlights": ["Gestion des règles du jeu", "Interface utilisateur", "Gestion du jeu en réseau à l'aide de threads et sockets."],
-      "url": "https://github.com/hugoseri/demineur"
-    },
-    {
-      "name": "Conception d'un robot 2",
-      "startDate": "Invalid date",
+      "startDate": "2018-09-01",
       "summary": "Conception d'un robot depuis la conception logique aux tests réels. Le robot est contrôlé par un smartphone par Bluetooth. Il est capable d'avancer et reculer à différentes vitesses, et de se garer automatiquement à une position enregistrée.",
       "highlights": [ "Etude préalable: algorigrammes, pseudo-code et architecture du robot (supervision/contrôle)", "Implémentation en C embarqué sur STM32."],
+      "skills": ["Embedded C", "STM32", "Bluetooth"],
       "url": "",
-      "endDate": "Invalid date"
+      "endDate": "2019-01-01"
+    },
+    {
+      "name": "Algorithme AES",
+      "startDate": "2018-10-01",
+      "summary": "Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
+      "highlights": [],
+      "skills": ["C++"],
+      "url": "https://github.com/hugoseri/AES",
+      "endDate": "2018-11-01"
+    },
+    {
+      "name": "Conception d'un robot",
+      "startDate": "2017-10-01",
+      "summary": "Projet sur un an en binôme de conception d'un robot passant par toutes les phases de conception.",
+      "highlights": ["Soudure des composants pour la réalisation de la carte électronique", "Etude (expérimentations et simulations) du fonctionnement des différents composants de la carte", "Développement logiciel du robot en réponse à un cahier des charges imposé", "Tests en simulation et en réel du robot"],
+      "skills": ["C embarqué (timers, interruptions, UART...)", "I2C"],
+      "url": "",
+      "endDate": "2018-06-01"
+    },
+    {
+      "name": "TIPE - Etude d'un goniomètre acoustique",
+      "startDate": "2016-01-01",
+      "summary": "Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur...",
+      "highlights": [],
+      "skills": ["Python"],
+      "url": "",
+      "endDate": "2017-07-01"
     }
   ]
 }

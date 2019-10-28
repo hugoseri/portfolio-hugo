@@ -16,8 +16,8 @@ class SkillEntry extends React.Component{
 class Entry extends React.Component{
 
     render() {
-        const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate);
-        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate);
+        const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate, this.props.lg);
+        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate, this.props.lg);
 
         return (
 
@@ -28,7 +28,7 @@ class Entry extends React.Component{
                         <p>{this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}</p>
                     </div>
                     <div className="media-body col-md-6 button-group-area">
-                        <h4>{this.props.entry.company}</h4>
+                        <h4><a href={this.props.entry.website} target="_blank" rel="noopener noreferrer"><i className="lnr lnr-link"></i>{this.props.entry.company}</a></h4>
                         <h3>{this.props.entry.position}</h3>
                         <p>{this.props.entry.summary}</p>
                         <BulletPoints points={this.props.entry.highlights}/>
@@ -49,12 +49,16 @@ class Work extends React.Component{
     render() {
         const numEntries = this.props.work.length;
         const text = this.props.text;
+        const lg = this.props.lg;
+        const type = this.props.type;
+        const active = type === "work" ? "active" : "";
+
         return (
-            <div className="tab-pane fade show active" id="work" role="tabpanel" aria-labelledby="home-tab">
+            <div className={`tab-pane fade show ${active}`} id={`${type}`} role="tabpanel" aria-labelledby="home-tab">
                 <ul className="list">
                     {this.props.work.map(function (entry, index) {
                         return (
-                            <Entry key={index} index={index} total={numEntries} entry={entry} text={text}/>
+                            <Entry lg={lg} key={index} index={index} total={numEntries} entry={entry} text={text}/>
                         );
                     })}
                 </ul>
