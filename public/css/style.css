@@ -156,8 +156,6 @@ button:focus {
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
-      .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-        color: #fff; }
       .header_area .navbar .nav .nav-item.submenu {
         position: relative; }
         .header_area .navbar .nav .nav-item.submenu ul {
@@ -2598,8 +2596,8 @@ h6 {
   .tabs_inner .nav.nav-tabs li {
     display: inline-block;
     margin-right: 8px; }
-    .tabs_inner .nav.nav-tabs li a {
-      margin: 0px;
+    .tabs_inner .nav.nav-tabs .nav-item a {
+      margin: 10px;
       line-height: 50px;
       border-radius: 5px;
       padding: 0px 40px;
@@ -2609,7 +2607,7 @@ h6 {
       font-family: "Roboto", sans-serif;
       border: 1px solid rgba(200, 200, 200, 0.5);
       background: rgba(255, 255, 255, 0.1); }
-      .tabs_inner .nav.nav-tabs li a.active {
+      .tabs_inner .nav.nav-tabs .nav-item a.active {
         background: #FF9A63;
         color: #ffffff; }
 .tabs_inner .tab-content .tab-pane .list {
@@ -2618,6 +2616,17 @@ h6 {
   position: relative;
   padding-top: 40px;
   padding-bottom: 40px; }
+  .tabs_inner .tab-content .media-body h4 a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .tabs_inner .tab-content .media-body h4 a i {
+    left: 0px;
+    top: 10px;
+    margin-right: 15px;
+    font-size: 20px;
+    color: #FF9A63;
+  }
   .tabs_inner .tab-content .tab-pane .list:before {
     content: "";
     height: 100%;

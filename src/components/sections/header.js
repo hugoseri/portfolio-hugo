@@ -41,7 +41,18 @@ class Header extends React.Component {
                                 <span className="icon-bar"></span>
                                 <span className="icon-bar"></span>
                             </button>
+
                             <div className="collapse navbar-collapse offset" id="navbarSupportedContent">
+
+                                <ul className="nav navbar-nav menu_nav nav-lg">
+                                    <li className="nav-item">
+                                        <a className='nav-link' href="#/" onClick={() => this.props.handler("fr")}>FR</a>
+                                    </li>
+                                    <li className="nav-item">
+                                        <a className='nav-link' href="#/" onClick={() => this.props.handler("en")}>EN</a>
+                                    </li>
+                                </ul>
+
                                 <ul className="nav navbar-nav menu_nav ml-auto">
                                     {Object.keys(this.props.nav).map(function (navigationLink, index) {
                                         const navigationName = this.props.nav[navigationLink];

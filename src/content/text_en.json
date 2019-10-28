@@ -1,0 +1,23 @@
+{
+  "navigation": {
+    "home": "Profile",
+    "work_education": "Education and experiences",
+    "skill": "Skills"
+  },
+  "presentation": {
+    "hello": "Hello, I am"
+  },
+  "tabs": {
+    "work": "My work experiences",
+    "date_connector_start": "From",
+    "date_connector_end": "to",
+    "education": "My education",
+    "volunteer": "Volunteering"
+  },
+  "skills": {
+    "title": "My skills"
+  },
+  "languages": {
+    "title": "Languages"
+  }
+}

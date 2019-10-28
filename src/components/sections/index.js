@@ -11,10 +11,12 @@ class Section extends React.Component{
     render() {
         return (
             <div>
-                <Header nav={this.props.additional_text.navigation}/>
+                <Header handler={this.props.handler}
+                        nav={this.props.additional_text.navigation}/>
                 <Presentation basics={this.props.resume.basics}
                               pres_text={this.props.additional_text.presentation}/>
-                <Tabs resume={this.props.resume}
+                <Tabs lg={this.props.lg}
+                      resume={this.props.resume}
                       tabs_text={this.props.additional_text.tabs}>
                 </Tabs>
                 <Skills skills={this.props.resume.skills}

@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Hugo Serieys",
+    "label": "I am a french computer science student passionate by this field, I am always curious to discover new languages, algorithms and innovation about technology and science.",
+    "picture": "",
+    "birth": {
+      "date": "April 27, 1997"
+    },
+    "email": "hugo.serieys@hotmail.fr",
+    "phone": "+(33)6 22 14 94 19",
+    "github": "https://github.com/hugoseri",
+    "linkedin": "https://www.linkedin.com/in/hugoserieys/",
+    "summary": "Computer science student",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Gardanne",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "EURA NOVA",
+      "position": "Data science research intern",
+      "website": "https://euranova.eu/",
+      "startDate": "2019-03-01",
+      "summary": "Internship among the research team. My internship topic is about a specific deep learning problem : visual domain adaptation (domain adaptation focused on images).",
+      "highlights": ["Implementation of state-of-the-art algorithms from papers", "Benchmark of these algorithms on given image datasets", "Original contribution resulting with a scientific paper."],
+      "skills": ["Python", "Tensorflow 2.0", "Pytest (TDD)", "Sphinx", "Docker", "Linux"],
+      "endDate": "2019-08-01"
+    },
+    {
+      "company": "École des Mines de Saint-Étienne",
+      "position": "Projet manager",
+      "website": "https://www.mines-stetienne.fr/formation/ismin/",
+      "startDate": "2018-09-01",
+      "summary": "During my journey at Mines de Saint Etienne, I had the opportunity to work on a project between a team of student and a company: EURA NOVA.\n\nThe goal of the project was to design a proof of concept on a automated video analysis application.",
+      "highlights": ["Writing of a specification document according to client needs", "Bibliographic research on technical needs for the project", "Technical answer to the specification document (schedule using GANTT diagram, to do list, tools to use, risks assessment...)", "Design of the project presentation poster", "Global project management (tasks distribution, decision making)", "Communication between every stakeholders (client, supervisor, team)", "Meeting facilitation", "Project presentation pitch"],
+      "skills": [],
+      "endDate": "2019-02-01"
+    },
+    {
+      "company": "M-GaTE - Junior-Entreprise",
+      "position": "Web developer",
+      "website": "https://www.mgate.fr/",
+      "startDate": "2018-06-01",
+      "summary": "Implementation of a web interface for connected objects management.",
+      "highlights": ["Secured authentication system with differents users rights (administrator and users, passwords management system)", "Database storing data relative to the connected objets and data relative to users", "User friendly interface to easily access to connected objects data", "Administrator interface for accounts management", "Customized file generation system (CSV format) to collect connected objects data", "Automatic back-up archives creation system"],
+      "skills": ["HTML", "CSS (Bootstrap)", "Javascript (jQuery)", "PHP", "MySQL", "Git"],
+      "endDate": "2019-03-01"
+    },
+    {
+      "company": "Information system department of french social ministries",
+      "position": "Intern",
+      "website": "https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/dsi-direction-des-systemes-d-information",
+      "startDate": "2018-01-01",
+      "summary": "During this internship, I completed many different tasks around computer maintenance.",
+      "highlights": ["Use of an issue tracking system for users reports", "Use of a LDAP directory management system", "Inventory of computer buffer store", "Computer maintenance (printer, computer problems...)", "I also spent a couple of days in the business incubator of the ISD, where public startups are hosted. I spent a whole day with a web developer who showed me many of his working methods."],
+      "skills": [],
+      "endDate": "2018-01-31"
+    }
+  ],
+  "volunteer": [
+    {
+      "company": "Forum Entreprises ISMIN",
+      "position": "Web developer",
+      "website": "https://forum-ismin.com",
+      "startDate": "2019-01-01",
+      "summary": "My main tasks within the digital structure of the association to manage the website.",
+      "highlights": ["Front-end adjustments to make it user friendly and mobile friendly", "Deployment on the web"],
+      "skills": ["HTML", "CSS (Bootstrap)", "JavaScript (jQuery)", "Git", "PHP (Laravel)"],
+      "endDate": "2019-11-01"
+    },
+    {
+      "company": "Boostrco",
+      "position": "Web developer",
+      "website": "https://www.boostrco.com/",
+      "startDate": "2018-03-01",
+      "summary": "My main tasks within the team was to help the lead developer to maintain the website.",
+      "highlights": ["Set up of a GitHub repository to improve teamwork and project management", "Front-end features"],
+      "skills": ["HTML", "CSS", "JavaScript (jQuery)", "Git"],
+      "endDate": "2018-04-01"
+    },
+    {
+      "company": "Illu-Mines",
+      "position": "Volunteer",
+      "website": "http://illu-mines.emse.fr/",
+      "startDate": "2017-09-01",
+      "summary": "Help for organizing, animating events for the association. The goal of this association is to do science popularization during different local events.",
+      "highlights": [],
+      "skills": ["Popularization"],
+      "endDate": "2017-12-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "École des Mines de Saint-Étienne (Gardanne, France)",
+      "area": "",
+      "studyType": "Master degree in computer science and electronics",
+      "startDate": "2017-09-01",
+      "gpa": "",
+      "courses": ["C programming", "Object oriented programming using C++ and Java", "Web and mobile development (NodeJS, TypeScript and Kotlin)", "Introduction to machine learning", "Introduction to cryptography (AES implementation in C++, see projets)", "Database management using PostGreSQL and Glassfish", "Embedded C on STM32 & PIC18 microcontrollers (see projets)", "Assembly on 8051 microcontroller", "Graph theory and mathematical optimization using C", "Client/server architecture using C", "Computer networks using Cisco Packet Tracer", "VHDL (AES implementation)", "UML"],
+      "endDate": "2020-10-01"
+    },
+    {
+      "institution": "Jules Ferry High School (Versailles, France)",
+      "area": "",
+      "studyType": "Preparatory cycle for engineering schools ",
+      "startDate": "2015-09-01",
+      "gpa": "",
+      "courses": ["Mathematics", "Physics", "Chemistry", "English" ,"French/Philosophy", "Engineering sciences"],
+      "endDate": "2017-07-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "",
+      "keywords": ["JavaScript", "jQuery", "React", "PHP", "HTML", "CSS", "Bootstrap", "WordPress"]
+    },
+    {
+      "name": "General development",
+      "level": "",
+      "keywords": ["Python", "C", "C++", "Java", "GlassFish", "MatLab", "TensorFlow 2.0", "Embedded C", "VHDL"]
+    },
+    {
+      "name": "DataBases",
+      "level": "",
+      "keywords": ["MySQL", "PostGreSQL"]
+    },
+    {
+      "name": "Graphic design and art related skills",
+      "level": "",
+      "keywords": ["Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom", "Adobe Indesign", "Digital photography"]
+    },
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": ["Git", "Scrum"]
+    },
+    {
+      "name": "Other technical skills",
+      "level": "",
+      "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Good working knowledge",
+      "percent": "70"
+    },
+    {
+      "language": "French",
+      "fluency": "Native",
+      "percent": "100"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Notions",
+      "percent": "30"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "percent": "10"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Connected minesweeper game",
+      "startDate": "2019-09-01",
+      "summary": "Design of a connected minesweeper game in Java:",
+      "highlights": ["Game rules management", "User interface", "Network game management using sockets and threads"],
+      "skills": ["Java"],
+      "url": "https://github.com/hugoseri/demineur",
+      "endDate": "2019-10-01"
+    },
+    {
+      "name": "Robot design",
+      "startDate": "2018-09-01",
+      "summary": "Design of a robot from conception to real tests. The robot is controlled by a smartphone using Bluetooth communication. It is able to move forward and backward at different speeds, and can park himself automaticaly at a saved position.",
+      "highlights": ["Pre-study before actual implementation: algorigrams, pseudo-code, robot architecture (superviser/controler)", "Implementation in embedded C on STM32."],
+      "skills": ["Embedded C", "STM32", "Bluetooth"],
+      "url": "",
+      "endDate": "2019-01-01"
+    },
+    {
+      "name": "AES algorithm",
+      "startDate": "2018-10-01",
+      "summary": "This project is part of a cryptography course I have followed with my school. The project is available on my github account, written in C++. It's a really small project (I spent about 10 hours on it), but it enabled me to discover in details one of the most used symmetric-key cryptography algorithm.",
+      "highlights": [],
+      "skills": ["C++"],
+      "url": "https://github.com/hugoseri/AES",
+      "endDate": "2018-11-01"
+    },
+    {
+      "name": "Robot design",
+      "startDate": "2017-10-01",
+      "summary": "One year pair working project on a robot design including each steps of th conception.",
+      "highlights": ["soldering of electronics components", "Study (experiments and simulation) of the components used on the microchip", "software development conforming given specifications", "Simulation and field tests."],
+      "skills": ["Embedded C (timers, interruptions, UART...)", "I2C protocol"],
+      "url": "",
+      "endDate": "2018-06-01"
+    },
+    {
+      "name": "TIPE - Etude d'un goniomètre acoustique",
+      "startDate": "2016-01-01",
+      "summary": "During my two year course before engineering school, I did a research project (sort of a micro-thesis) about acoustic angle measuring systems : how to localize an acoustic source.\nI made many researches, experiments, simulations, contact with a researcher.",
+      "highlights": [],
+      "skills": ["Python"],
+      "url": "",
+      "endDate": "2017-07-01"
+    }
+  ]
+}
