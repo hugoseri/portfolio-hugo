@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The template used is MeetMe from [Colorlib](https://colorlib.com/).
-The website content is inspired by the [JSON Resume format](https://jsonresume.org/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).   
+The template used is MeetMe from [Colorlib](https://colorlib.com/).   
+The website content is inspired by the [JSON Resume format](https://jsonresume.org/).   
 The project architecture is inspired from this [portfolio project](https://github.com/suddi/suddi.github.io).
 
 ## Available Scripts
