@@ -23,93 +23,93 @@
   "work": [
     {
       "company": "EURA NOVA",
-      "position": "Stagiaire data science en recherche et développement",
+      "position": "Data science research intern",
       "website": "",
       "startDate": "2019-03-01",
-      "summary": "Stage réalisé au sein de l'équipe de recherche d'EURANOVA. Mon sujet de stage traite d'un sujet particulier de deep learning : l'adaptation de domaine appliqué sur des images. (visual domain adaptation)",
-      "highlights": ["Implémentation d'algorithmes à l'état de l'art à partir de publications", "Réalisation d'un comparatif de ces algorithmes", "Contribution originale : publication d'un papier."],
+      "summary": "Internship among the research team. My internship topic is about a specific deep learning problem : visual domain adaptation (domain adaptation focused on images).",
+      "highlights": ["Implementation of state-of-the-art algorithms from papers", "Benchmark of these algorithms on given image datasets", "Original contribution resulting with a scientific paper."],
       "skills": ["Python", "Tensorflow 2.0", "Pytest (TDD)", "Sphinx", "Docker", "Linux"],
       "endDate": "2019-08-01"
     },
     {
       "company": "École des Mines de Saint-Étienne",
-      "position": "Chef de projet industriel",
+      "position": "Projet manager",
       "website": "",
       "startDate": "2018-09-01",
-      "summary": "J'ai participé, lors de ma formation à l'Ecole des Mines de Saint Etienne, à la réalisation d'un projet au sein d'une équipe d'étudiants en partenariat avec EURA NOVA.  L'objectif du projet était de réaliser une preuve de concept pour un outil d'analyse automatique de vidéos.  Grâce à notre travail d'équipe, nous avons pu réalisé plusieurs choses.",
-      "highlights": ["Cahier des charges à partir des attentes du client", "Recherche bibliographique pour les éléments techniques nécessaires", "Réponse technique au cahier des charges (planning prévisionnel type GANTT, tâches à réaliser, outils à utiliser, évaluation des risques...)", "Animation des réunions", "Communication avec les différentes parties prenantes", "Gestion du projet", "Poster et pitch de présentation du projet."],
+      "summary": "During my journey at Mines de Saint Etienne, I had the opportunity to work on a project between a team of student and a company: EURA NOVA.\n\nThe goal of the project was to design a proof of concept on a automated video analysis application.",
+      "highlights": ["Writing of a specification document according to client needs", "Bibliographic research on technical needs for the project", "Technical answer to the specification document (schedule using GANTT diagram, to do list, tools to use, risks assessment...)", "Design of the project presentation poster", "Global project management (tasks distribution, decision making)", "Communication between every stakeholders (client, supervisor, team)", "Meeting facilitation", "Project presentation pitch"],
       "skills": [],
       "endDate": "2019-02-01"
     },
     {
       "company": "M-GaTE - Junior-Entreprise",
-      "position": "Développeur web",
+      "position": "Web developer",
       "website": "",
       "startDate": "2018-06-01",
-      "summary": "Réalisation d'une interface web pour la gestion d'objets connectés.",
-      "highlights": ["Système d'authentification sécurisé avec différents droits utilisateurs (administrateur et utilisateur, gestion des mots de passe oubliés)", "Base de données stockant les informations relatives aux objets connectés et les informations des utilisateurs", "Interface permettant de visualiser aisément les informations relatives aux objets connectés", "Interface administrateur pour la gestion des comptes utilisateurs", "Système de génération de fichiers personnalisés (CSV) contenant des informations relatives aux objets connectés", "Création automatique d'archives mensuelles des données récoltées par les objets connectés"],
+      "summary": "Implementation of a web interface for connected objects management.",
+      "highlights": ["Secured authentication system with differents users rights (administrator and users, passwords management system)", "Database storing data relative to the connected objets and data relative to users", "User friendly interface to easily access to connected objects data", "Administrator interface for accounts management", "Customized file generation system (CSV format) to collect connected objects data", "Automatic back-up archives creation system"],
       "skills": ["HTML", "CSS (Bootstrap)", "Javascript (jQuery)", "PHP", "MySQL", "Git"],
       "endDate": "2019-03-01"
     },
     {
-      "company": "Direction des systèmes d'information des Ministères Sociaux",
-      "position": "Stagiaire",
+      "company": "Information system department of french social ministries",
+      "position": "Intern",
       "website": "",
       "startDate": "2018-01-01",
-      "summary": "J'ai effectué mon stage d'un mois au sein du service support proximité de la DSI des Ministères sociaux à Paris. Les tâches réalisées étaient diverses.",
-      "highlights": ["Utilisation d'un outil de ticketing pour gérer les demandes des utilisateurs", "Utilisation d'outils de gestion d'annuaires LDAP + requêteur pour gérer les droits d'accès utilisateurs", "Réalisation de l'inventaire du stock tampon (PC, écrans...) disponible", "Maintenance informatique (problèmes d'imprimantes, d'ordinateurs...).",  "J'ai également eu la chance de découvrir l'incubateur de la DSI où des startups d'Etat y sont hébergées. J'ai pu passer une journée avec un développeur qui m'a montré ses méthodes de travail et les outils utilisés."],
+      "summary": "During this internship, I completed many different tasks around computer maintenance.",
+      "highlights": ["Use of an issue tracking system for users reports", "Use of a LDAP directory management system", "Inventory of computer buffer store", "Computer maintenance (printer, computer problems...)", "I also spent a couple of days in the business incubator of the ISD, where public startups are hosted. I spent a whole day with a web developer who showed me many of his working methods."],
       "skills": [],
-      "endDate": "2018-01-01"
+      "endDate": "2018-01-31"
     }
   ],
   "education": [
     {
-      "institution": "École des Mines de Saint-Étienne",
+      "institution": "École des Mines de Saint-Étienne (Gardanne, France)",
       "area": "",
-      "studyType": "Diplôme d'ingénieur en 3 ans",
+      "studyType": "Master degree in computer science and electronics",
       "startDate": "2017-09-01",
       "gpa": "",
-      "courses": ["Programmation en C", "Programmation orientée objet en C++ et Java", "Développement web et mobile (NodeJS, TypeScript et Kotlin)", "Introduction au machine learning", "Introduction à la cryptographie (tp d'implémentation de AES en C++, voir projets)", "Bases de données en PostGreSQL", "C embarqué sur microcontrôleurs STM32 & PIC18 (voir projets)", "Assembleur sur microcontrôleur 8051", "Théorie des graphes et optimisation en C", "Architecture client/serveur en C", "Réseau avec Cisco Packet Tracer", "VHDL", "UML"],
+      "courses": ["C programming", "Object oriented programming using C++ and Java", "Web and mobile development (NodeJS, TypeScript and Kotlin)", "Introduction to machine learning", "Introduction to cryptography (AES implementation in C++, see projets)", "Database management using PostGreSQL and Glassfish", "Embedded C on STM32 & PIC18 microcontrollers (see projets)", "Assembly on 8051 microcontroller", "Graph theory and mathematical optimization using C", "Client/server architecture using C", "Computer networks using Cisco Packet Tracer", "VHDL (AES implementation)", "UML"],
       "endDate": "2020-10-01"
     },
     {
-      "institution": "Lycée Jules Ferry, Versailles",
+      "institution": "Jules Ferry High School (Versailles, France)",
       "area": "",
-      "studyType": "Classe préparatoire PTSI/PT",
+      "studyType": "Preparatory cycle for engineering schools ",
       "startDate": "2015-09-01",
       "gpa": "",
-      "courses": ["Mathématiques", "Physique", "Chimie", "Anglais" ,"Français/Philosophie", "Sciences de l'ingénieur"],
+      "courses": ["Mathematics", "Physics", "Chemistry", "English" ,"French/Philosophy", "Engineering sciences"],
       "endDate": "2017-07-01"
     }
   ],
   "skills": [
     {
-      "name": "Développement web",
+      "name": "Web development",
       "level": "",
       "keywords": ["JavaScript", "jQuery", "React", "PHP", "HTML", "CSS", "Bootstrap", "WordPress"]
     },
     {
-      "name": "Développement général",
+      "name": "General development",
       "level": "",
-      "keywords": ["Python", "C", "C++", "Java", "MatLab", "TensorFlow 2.0", "C embarqué", "VHDL"]
+      "keywords": ["Python", "C", "C++", "Java", "GlassFish", "MatLab", "TensorFlow 2.0", "Embedded C", "VHDL"]
     },
     {
-      "name": "Bases de données",
+      "name": "DataBases",
       "level": "",
       "keywords": ["MySQL", "PostGreSQL"]
     },
     {
-      "name": "Graphisme et compétences artistiques",
+      "name": "Graphic design and art related skills",
       "level": "",
-      "keywords": ["Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom", "Adobe Indesign", "Photographie numérique"]
+      "keywords": ["Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom", "Adobe Indesign", "Digital photography"]
     },
     {
-      "name": "Gestion de projet",
+      "name": "Project management",
       "level": "",
       "keywords": ["Git", "Scrum"]
     },
     {
-      "name": "Autre compétences techniques",
+      "name": "Other technical skills",
       "level": "",
       "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
     }

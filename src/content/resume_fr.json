@@ -59,7 +59,7 @@
       "summary": "J'ai effectué mon stage d'un mois au sein du service support proximité de la DSI des Ministères sociaux à Paris. Les tâches réalisées étaient diverses.",
       "highlights": ["Utilisation d'un outil de ticketing pour gérer les demandes des utilisateurs", "Utilisation d'outils de gestion d'annuaires LDAP + requêteur pour gérer les droits d'accès utilisateurs", "Réalisation de l'inventaire du stock tampon (PC, écrans...) disponible", "Maintenance informatique (problèmes d'imprimantes, d'ordinateurs...).",  "J'ai également eu la chance de découvrir l'incubateur de la DSI où des startups d'Etat y sont hébergées. J'ai pu passer une journée avec un développeur qui m'a montré ses méthodes de travail et les outils utilisés."],
       "skills": [],
-      "endDate": "2018-01-01"
+      "endDate": "2018-01-31"
     }
   ],
   "education": [
@@ -69,7 +69,7 @@
       "studyType": "Diplôme d'ingénieur en 3 ans",
       "startDate": "2017-09-01",
       "gpa": "",
-      "courses": ["Programmation en C", "Programmation orientée objet en C++ et Java", "Développement web et mobile (NodeJS, TypeScript et Kotlin)", "Introduction au machine learning", "Introduction à la cryptographie (tp d'implémentation de AES en C++, voir projets)", "Bases de données en PostGreSQL", "C embarqué sur microcontrôleurs STM32 & PIC18 (voir projets)", "Assembleur sur microcontrôleur 8051", "Théorie des graphes et optimisation en C", "Architecture client/serveur en C", "Réseau avec Cisco Packet Tracer", "VHDL", "UML"],
+      "courses": ["Programmation en C", "Programmation orientée objet en C++ et Java", "Développement web et mobile (NodeJS, TypeScript et Kotlin)", "Introduction au machine learning", "Introduction à la cryptographie (tp d'implémentation de AES en C++, voir projets)", "Bases de données en PostGreSQL et avec Glassfish", "C embarqué sur microcontrôleurs STM32 & PIC18 (voir projets)", "Assembleur sur microcontrôleur 8051", "Théorie des graphes et optimisation en C", "Architecture client/serveur en C", "Réseau avec Cisco Packet Tracer", "VHDL", "UML"],
       "endDate": "2020-10-01"
     },
     {
@@ -91,7 +91,7 @@
     {
       "name": "Développement général",
       "level": "",
-      "keywords": ["Python", "C", "C++", "Java", "MatLab", "TensorFlow 2.0", "C embarqué", "VHDL"]
+      "keywords": ["Python", "C", "C++", "Java", "GlassFish", "MatLab", "TensorFlow 2.0", "C embarqué", "VHDL"]
     },
     {
       "name": "Bases de données",

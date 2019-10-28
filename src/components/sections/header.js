@@ -46,12 +46,13 @@ class Header extends React.Component {
 
                                 <ul className="nav navbar-nav menu_nav nav-lg">
                                     <li className="nav-item">
-                                        <a className='nav-link nav-link-lg' href="#/" onClick={() => this.props.handler("fr")}>FR</a>
+                                        <a className='nav-link' href="#/" onClick={() => this.props.handler("fr")}>FR</a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className='nav-link nav-link-lg' href="#/" onClick={() => this.props.handler("en")}>EN</a>
+                                        <a className='nav-link' href="#/" onClick={() => this.props.handler("en")}>EN</a>
                                     </li>
                                 </ul>
+
                                 <ul className="nav navbar-nav menu_nav ml-auto">
                                     {Object.keys(this.props.nav).map(function (navigationLink, index) {
                                         const navigationName = this.props.nav[navigationLink];

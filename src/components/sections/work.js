@@ -16,8 +16,8 @@ class SkillEntry extends React.Component{
 class Entry extends React.Component{
 
     render() {
-        const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate);
-        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate);
+        const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate, this.props.lg);
+        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate, this.props.lg);
 
         return (
 
@@ -49,12 +49,13 @@ class Work extends React.Component{
     render() {
         const numEntries = this.props.work.length;
         const text = this.props.text;
+        const lg = this.props.lg;
         return (
             <div className="tab-pane fade show active" id="work" role="tabpanel" aria-labelledby="home-tab">
                 <ul className="list">
                     {this.props.work.map(function (entry, index) {
                         return (
-                            <Entry key={index} index={index} total={numEntries} entry={entry} text={text}/>
+                            <Entry lg={lg} key={index} index={index} total={numEntries} entry={entry} text={text}/>
                         );
                     })}
                 </ul>

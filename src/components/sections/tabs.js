@@ -20,8 +20,8 @@ class Tabs extends React.Component{
                                    aria-controls="education" aria-selected="false">{this.props.tabs_text.education}</a>
                             </li>
                                 <div className="tab-content" id="myTabContent">
-                                    <Work work={this.props.resume.work} text={this.props.tabs_text}/>
-                                    <Education education={this.props.resume.education} text={this.props.tabs_text}/>
+                                    <Work lg={this.props.lg} work={this.props.resume.work} text={this.props.tabs_text}/>
+                                    <Education lg={this.props.lg} education={this.props.resume.education} text={this.props.tabs_text}/>
                                 </div>
                         </ul>
                     </div>

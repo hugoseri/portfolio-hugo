@@ -29,6 +29,7 @@ class Main extends React.Component{
         return (
             <div>
                 <Section
+                    lg={this.state.language}
                     handler={this.handler}
                     resume={resume}
                     additional_text={additional_text}/>
