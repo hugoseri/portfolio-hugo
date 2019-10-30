@@ -168,7 +168,7 @@
       "name": "Site web portfolio",
       "startDate": "2019-10-01",
       "summary": "Développement de ce site web portfolio pour prendre en main ReactJS.",
-      "highlights": ["Développement front-end avec ReactJS", "Utilisation d'un template de portfolio personnalisé","Contenu multilingues (FR et EN)", "Intégration continue avec Travis CI"],
+      "highlights": ["Développement front-end avec ReactJS", "Utilisation d'un template de portfolio personnalisé", "Utilisation du standard de CV JSON Resume","Contenu multilingues (FR et EN)", "Intégration continue avec Travis CI"],
       "skills": ["HTML", "CSS", "JavaScript", "React", "JSON Resume", "Travis CI"],
       "img": "img/projects/portfolio.png",
       "url": "https://github.com/hugoseri/portfolio-hugo",

@@ -43,7 +43,7 @@ class Entry extends React.Component{
         let content = <div key={this.props.index + this.props.total} className="col-md-7 mt-sm-20 text_project">
                         <h3>{this.props.entry.name}</h3>
                         <h4><i>{this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}</i></h4>
-                        {this.props.entry.url === "" ? (
+                        {this.props.entry.url !== "" ? (
                            <a href={this.props.entry.url} target="_blank" rel="noopener noreferrer">Github link</a>
                         ) : (null)}
                         <p>{this.props.entry.summary}</p>
