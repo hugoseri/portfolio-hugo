@@ -37,13 +37,13 @@ class Entry extends React.Component{
     render() {
         const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate, this.props.lg);
         const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate, this.props.lg);
-        let img = <div className="col-md-5">
+        let img = <div key={this.props.index} className="col-md-5">
                     <img src={`${this.props.entry.img}`} alt="" className="img-fluid img_project"/>
                   </div>
-        let content = <div className="col-md-7 mt-sm-20 text_project">
+        let content = <div key={this.props.index + this.props.total} className="col-md-7 mt-sm-20 text_project">
                         <h3>{this.props.entry.name}</h3>
                         <h4><i>{this.props.text.date_connector_start + " " + startDate + " " + this.props.text.date_connector_end + " " + endDate}</i></h4>
-                        {this.props.entry.url != "" ? (
+                        {this.props.entry.url === "" ? (
                            <a href={this.props.entry.url} target="_blank" rel="noopener noreferrer">Github link</a>
                         ) : (null)}
                         <p>{this.props.entry.summary}</p>
@@ -78,6 +78,8 @@ class Projects extends React.Component{
     render() {
         const text = this.props.projects_text;
         const lg = this.props.lg;
+        const total = this.props.projects.length;
+
         return (
             <div className="whole-wrap p_100" id="projects">
                 <div className="container">
@@ -86,7 +88,7 @@ class Projects extends React.Component{
                     </div>
                     {this.props.projects.map(function (entry, index) {
                         return (
-                            <Entry lg={lg} key={index} index={index} entry={entry} text={text}/>
+                            <Entry total={total} lg={lg} key={index} index={index} entry={entry} text={text}/>
                         );
                     })}
                 </div>

@@ -170,6 +170,16 @@
   ],
   "projects": [
     {
+      "name": "Portfolio website",
+      "startDate": "2019-10-01",
+      "summary": "Design of this portfolio website to discover and get familiar ReactJS.",
+      "highlights": ["Front-end developed using React", "Use of a portfolio template customized", "Multilingual content (FR and EN)", "Continuous integration using Travis CI"],
+      "skills": ["HTML", "CSS", "JavaScript", "React", "JSON Resume", "Travis CI"],
+      "img": "img/projects/portfolio.png",
+      "url": "https://github.com/hugoseri/portfolio-hugo",
+      "endDate": "2019-11-01"
+    },
+    {
       "name": "Connected minesweeper game",
       "startDate": "2019-09-01",
       "summary": "Design of a connected minesweeper game in Java:",
@@ -178,6 +188,16 @@
       "img": "img/projects/demineur.png",
       "url": "https://github.com/hugoseri/demineur",
       "endDate": "2019-10-01"
+    },
+    {
+      "name": "Course selection system project",
+      "startDate": "2018-11-01",
+      "summary": "This is a small school project. Its goal was to design and implement a simplified course selection system, using UML and C++. It was done in several hours of development.",
+      "highlights": [],
+      "skills": ["C++", "UML"],
+      "img": "img/projects/uml.jpg",
+      "url": "https://github.com/hugoseri/uml_cpp",
+      "endDate": "2019-12-01"
     },
     {
       "name": "Robot design",
