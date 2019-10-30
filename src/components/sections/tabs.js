@@ -7,7 +7,7 @@ class Tabs extends React.Component{
 
     render() {
         return (
-            <section className="mytabs_area p_120" id="work_education">
+            <section className="mytabs_area p_100" id="work_education">
                 <div className="container">
                     <div className="tabs_inner">
                         <ul className="nav nav-tabs" id="myTab" role="tablist">
