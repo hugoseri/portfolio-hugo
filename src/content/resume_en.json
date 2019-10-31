@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hugo Serieys",
-    "label": "I am a french computer science student passionate by this field, I am always curious to discover new languages, algorithms and innovation about technology and science.",
+    "label": "Always curious, I'm constantly looking for new technologies, methods, approaches to improve my daily work. Moreover, as I attach a great importance to graphical design, I always do my best to make pleasant and user-friendly interfaces. For me, every detail counts !",
     "picture": "",
     "birth": {
       "date": "April 27, 1997"
@@ -170,13 +170,34 @@
   ],
   "projects": [
     {
+      "name": "Portfolio website",
+      "startDate": "2019-10-01",
+      "summary": "Design of this portfolio website to discover and get familiar ReactJS.",
+      "highlights": ["Front-end developed using React", "Use of a portfolio template customized", "Use of JSON Resume CV standard", "Multilingual content (FR and EN)", "Continuous integration using Travis CI"],
+      "skills": ["HTML", "CSS", "JavaScript", "React", "JSON Resume", "Travis CI"],
+      "img": "img/projects/portfolio.png",
+      "url": "https://github.com/hugoseri/portfolio-hugo",
+      "endDate": "2019-11-01"
+    },
+    {
       "name": "Connected minesweeper game",
       "startDate": "2019-09-01",
       "summary": "Design of a connected minesweeper game in Java:",
       "highlights": ["Game rules management", "User interface", "Network game management using sockets and threads"],
       "skills": ["Java"],
+      "img": "img/projects/demineur.png",
       "url": "https://github.com/hugoseri/demineur",
       "endDate": "2019-10-01"
+    },
+    {
+      "name": "Course selection system project",
+      "startDate": "2018-11-01",
+      "summary": "This is a small school project. Its goal was to design and implement a simplified course selection system, using UML and C++. It was done in several hours of development.",
+      "highlights": [],
+      "skills": ["C++", "UML"],
+      "img": "img/projects/uml.jpg",
+      "url": "https://github.com/hugoseri/uml_cpp",
+      "endDate": "2019-12-01"
     },
     {
       "name": "Robot design",
@@ -184,7 +205,8 @@
       "summary": "Design of a robot from conception to real tests. The robot is controlled by a smartphone using Bluetooth communication. It is able to move forward and backward at different speeds, and can park himself automaticaly at a saved position.",
       "highlights": ["Pre-study before actual implementation: algorigrams, pseudo-code, robot architecture (superviser/controler)", "Implementation in embedded C on STM32."],
       "skills": ["Embedded C", "STM32", "Bluetooth"],
-      "url": "",
+      "img": "img/projects/robot2.jpg",
+      "url": "https://github.com/hugoseri/robot2",
       "endDate": "2019-01-01"
     },
     {
@@ -193,24 +215,27 @@
       "summary": "This project is part of a cryptography course I have followed with my school. The project is available on my github account, written in C++. It's a really small project (I spent about 10 hours on it), but it enabled me to discover in details one of the most used symmetric-key cryptography algorithm.",
       "highlights": [],
       "skills": ["C++"],
+      "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
       "endDate": "2018-11-01"
     },
     {
       "name": "Robot design",
       "startDate": "2017-10-01",
-      "summary": "One year pair working project on a robot design including each steps of th conception.",
+      "summary": "One year pair working project on a robot design including each steps of the conception.",
       "highlights": ["soldering of electronics components", "Study (experiments and simulation) of the components used on the microchip", "software development conforming given specifications", "Simulation and field tests."],
-      "skills": ["Embedded C (timers, interruptions, UART...)", "I2C protocol"],
+      "skills": ["Embedded C (timers, interruptions, UART...)", "PIC18", "I2C protocol"],
+      "img": "img/projects/robot1.png",
       "url": "",
       "endDate": "2018-06-01"
     },
     {
-      "name": "TIPE - Etude d'un goniomètre acoustique",
+      "name": "TIPE - Acoustic angle measuring system study",
       "startDate": "2016-01-01",
       "summary": "During my two year course before engineering school, I did a research project (sort of a micro-thesis) about acoustic angle measuring systems : how to localize an acoustic source.\nI made many researches, experiments, simulations, contact with a researcher.",
       "highlights": [],
       "skills": ["Python"],
+      "img": "img/projects/tipe.png",
       "url": "",
       "endDate": "2017-07-01"
     }

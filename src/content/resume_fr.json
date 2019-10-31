@@ -165,21 +165,43 @@
   ],
   "projects": [
     {
+      "name": "Site web portfolio",
+      "startDate": "2019-10-01",
+      "summary": "Développement de ce site web portfolio pour prendre en main ReactJS.",
+      "highlights": ["Développement front-end avec ReactJS", "Utilisation d'un template de portfolio personnalisé", "Utilisation du standard de CV JSON Resume","Contenu multilingues (FR et EN)", "Intégration continue avec Travis CI"],
+      "skills": ["HTML", "CSS", "JavaScript", "React", "JSON Resume", "Travis CI"],
+      "img": "img/projects/portfolio.png",
+      "url": "https://github.com/hugoseri/portfolio-hugo",
+      "endDate": "2019-11-01"
+    },
+    {
       "name": "Jeu de démineur connecté",
       "startDate": "2019-09-01",
       "summary": "Conception d'un jeu de démineur en réseau",
       "highlights": ["Gestion des règles du jeu", "Interface utilisateur", "Gestion du jeu en réseau à l'aide de threads et sockets."],
       "skills": ["Java"],
       "url": "https://github.com/hugoseri/demineur",
+      "img": "img/projects/demineur.png",
       "endDate": "2019-10-01"
+    },
+    {
+      "name": "Système de sélection de cours",
+      "startDate": "2018-11-01",
+      "summary": "Il s'agit d'un cours projet scolaire. L'objectif était de concevoir et implémenter un système simplifié de selection de cours, à l'aide de UML et C++. Cela a été réalisé en quelques heures de travail.",
+      "highlights": [],
+      "skills": ["C++", "UML"],
+      "img": "img/projects/uml.jpg",
+      "url": "https://github.com/hugoseri/uml_cpp",
+      "endDate": "2019-12-01"
     },
     {
       "name": "Conception d'un robot",
       "startDate": "2018-09-01",
       "summary": "Conception d'un robot depuis la conception logique aux tests réels. Le robot est contrôlé par un smartphone par Bluetooth. Il est capable d'avancer et reculer à différentes vitesses, et de se garer automatiquement à une position enregistrée.",
       "highlights": [ "Etude préalable: algorigrammes, pseudo-code et architecture du robot (supervision/contrôle)", "Implémentation en C embarqué sur STM32."],
-      "skills": ["Embedded C", "STM32", "Bluetooth"],
-      "url": "",
+      "skills": ["C embarqué", "STM32", "Bluetooth"],
+      "img": "img/projects/robot2.jpg",
+      "url": "https://github.com/hugoseri/robot2",
       "endDate": "2019-01-01"
     },
     {
@@ -188,6 +210,7 @@
       "summary": "Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
       "highlights": [],
       "skills": ["C++"],
+      "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
       "endDate": "2018-11-01"
     },
@@ -196,7 +219,8 @@
       "startDate": "2017-10-01",
       "summary": "Projet sur un an en binôme de conception d'un robot passant par toutes les phases de conception.",
       "highlights": ["Soudure des composants pour la réalisation de la carte électronique", "Etude (expérimentations et simulations) du fonctionnement des différents composants de la carte", "Développement logiciel du robot en réponse à un cahier des charges imposé", "Tests en simulation et en réel du robot"],
-      "skills": ["C embarqué (timers, interruptions, UART...)", "I2C"],
+      "skills": ["C embarqué (timers, interruptions, UART...)", "PIC18","I2C"],
+      "img": "img/projects/robot1.png",
       "url": "",
       "endDate": "2018-06-01"
     },
@@ -206,6 +230,7 @@
       "summary": "Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur...",
       "highlights": [],
       "skills": ["Python"],
+      "img": "img/projects/tipe.png",
       "url": "",
       "endDate": "2017-07-01"
     }

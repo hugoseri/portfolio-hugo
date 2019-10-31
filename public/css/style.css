@@ -1450,6 +1450,7 @@ h6 {
   border-radius: 20px; }
 
 .genric-btn {
+  background: transparent;
   display: inline-block;
   outline: none;
   line-height: 40px;
@@ -1528,7 +1529,7 @@ h6 {
 .genric-btn.primary-border {
   color: #f2c24b;
   border: 1px solid #f2c24b;
-  background: #fff; }
+  background: #f2c24b; }
 
 .genric-btn.primary-border:hover {
   color: #fff;
@@ -1544,12 +1545,12 @@ h6 {
 .genric-btn.skill {
   color: #ff9a63;
   border: 1px solid #ff9a63;
-  background: #fff; }
+  background: transparent; }
 
 .genric-btn.skill-border:hover {
   color: #ff9a63;
   border: 1px solid #ff9a63;
-  background: #fff; }
+  background: transparent; }
 
 .genric-btn.skill-border {
   color: #fff;
@@ -2584,9 +2585,9 @@ h6 {
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #FFF 0%, #FFF 100%);
-  background-image: -webkit-linear-gradient(0deg, #FFF 0%, #FFF 100%);
-  background-image: -ms-linear-gradient(0deg, #FFF 0%, #FFF 100%); }
+  background-image: -moz-linear-gradient(0deg, #f9f9ff 0%, #f9f9ff 100%);
+  background-image: -webkit-linear-gradient(0deg, #f9f9ff 0%, #f9f9ff 100%);
+  background-image: -ms-linear-gradient(0deg, #f9f9ff 0%, #f9f9ff 100%); }
 
 .tabs_inner .nav.nav-tabs {
   display: block;
@@ -2702,9 +2703,42 @@ h6 {
 
 /* End My Tabs Area css
 ============================================================================================ */
+
+
+/* Project Area css
+============================================================================================ */
+
+.img_project {
+  border-radius: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1)}
+.text_project {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+.text_project {
+  margin-top: 20px;
+}
+.text_project p {
+  margin-bottom: 0px;
+}
+.text_project a {
+  color: #ff9a63;
+}
+.text_project .button-group-area {
+  margin-top: 10px;
+}
+/* End project Area css
+============================================================================================ */
+
+
 /* Feature Area css
 ============================================================================================ */
 .feature_area {
+  /*background: #f9f9ff; }*/
   background: #f9f9ff; }
   .feature_area.feature_tow {
     background: #fff; }

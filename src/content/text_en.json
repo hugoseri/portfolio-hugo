@@ -2,6 +2,7 @@
   "navigation": {
     "home": "Profile",
     "work_education": "Education and experiences",
+    "projects": "Projects",
     "skill": "Skills"
   },
   "presentation": {
@@ -13,6 +14,11 @@
     "date_connector_end": "to",
     "education": "My education",
     "volunteer": "Volunteering"
+  },
+  "projects": {
+    "title": "My projects",
+    "date_connector_start": "From",
+    "date_connector_end": "to"
   },
   "skills": {
     "title": "My skills"
