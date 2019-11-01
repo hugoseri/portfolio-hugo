@@ -83,6 +83,7 @@ button:focus {
   padding-bottom: 120px; }
 
 .p_100 {
+  background: #fff;
   padding-top: 100px;
   padding-bottom: 100px; }
 
@@ -335,6 +336,10 @@ button:focus {
         padding-left: 5%;
         vertical-align: middle;
         align-self: center; }
+
+body {
+  background: #f9f9ff;
+}
 
 .blog_banner {
   min-height: 780px;
@@ -1007,7 +1012,6 @@ button:focus {
   position: relative; }
   .reservation_form_area .res_form_inner:before {
     content: "";
-    background: url(../img/contact-shap-1.png);
     position: absolute;
     left: -125px;
     height: 421px;
@@ -1016,7 +1020,6 @@ button:focus {
     transform: translateY(-50%); }
   .reservation_form_area .res_form_inner:after {
     content: "";
-    background: url(../img/contact-shap-2.png);
     position: absolute;
     right: -125px;
     height: 421px;
@@ -1487,14 +1490,6 @@ h6 {
 .genric-btn.circle {
   border-radius: 20px; }
 
-.genric-btn.arrow {
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center; }
-
 .genric-btn.arrow span {
   margin-left: 10px; }
 
@@ -1658,12 +1653,6 @@ h6 {
   color: #222222;
   background: #f9f9ff;
   border: 1px solid transparent; }
-
-.genric-btn.disable {
-  color: #222222, 0.3;
-  background: #f9f9ff;
-  border: 1px solid transparent;
-  cursor: not-allowed; }
 
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
@@ -2397,7 +2386,7 @@ h6 {
 ============================================================================================ */
 .main_btn {
   display: inline-block;
-  background-image: linear-gradient(to right, #766dff 0%, #86e8ff 48%, #766dff 100%);
+  background-image: linear-gradient(to right, #FF9A63 0%, #f2c24b 48%, #FF9A63 100%);
   background-size: 200% auto;
   padding: 0px 40px;
   color: #fff;
@@ -2738,7 +2727,6 @@ h6 {
 /* Feature Area css
 ============================================================================================ */
 .feature_area {
-  /*background: #f9f9ff; }*/
   background: #f9f9ff; }
   .feature_area.feature_tow {
     background: #fff; }
@@ -2787,7 +2775,7 @@ h6 {
     border-color: #fff;
     background: #fff; }
     .feature_item:hover i:before {
-      background: linear-gradient(to right, #8490ff 0%, #f2c24b 70%);
+      background: linear-gradient(to right, #ff9a63 0%, #f2c24b 70%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
 

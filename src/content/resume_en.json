@@ -200,7 +200,7 @@
       "endDate": "2019-12-01"
     },
     {
-      "name": "Robot design",
+      "name": "Remote control robot design ",
       "startDate": "2018-09-01",
       "summary": "Design of a robot from conception to real tests. The robot is controlled by a smartphone using Bluetooth communication. It is able to move forward and backward at different speeds, and can park himself automaticaly at a saved position.",
       "highlights": ["Pre-study before actual implementation: algorigrams, pseudo-code, robot architecture (superviser/controler)", "Implementation in embedded C on STM32."],
@@ -239,5 +239,62 @@
       "url": "",
       "endDate": "2017-07-01"
     }
+  ],
+  "hobbies": [
+    [
+      {
+        "name": "Running",
+        "summary": "Ayant commencé à courir régulièrement en mars 2019, je cours aujourd'hui 2 à 3 fois par semaine et j'ai déjà pu participé à 2 trails de 10 et 16km !",
+        "img": "running"
+      },
+      {
+        "name": "Mountain activities",
+        "summary": "Entre le ski, la randonnée, les activités d'eau-vive (rafting, canyoning...), les bivouacs dans la nature, j'adore la montagne !",
+        "img": "mountain"
+      },
+      {
+        "name": "Swimming",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "swimmer"
+      },
+      {
+        "name": "Martial arts",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "heartbeat"
+      }
+    ],
+    [
+      {
+        "name": "Photography",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "camera"
+      },
+      {
+        "name": "Drawing",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "pencil-alt"
+      },
+      {
+        "name": "Drama",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "theater-masks"
+      },
+      {
+        "name": "Guitar",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "guitar"
+      }
+    ], [
+      {
+        "name": "Chess",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "chess"
+      },
+      {
+        "name": "Pastry",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "cookie-bite"
+      }
+    ]
   ]
 }
