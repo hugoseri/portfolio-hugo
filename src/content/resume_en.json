@@ -39,7 +39,8 @@
         "Pytest (TDD)",
         "Sphinx",
         "Docker",
-        "Linux"
+        "Linux",
+        "Git"
       ],
       "endDate": "2019-08-01"
     },
@@ -302,7 +303,8 @@
         "JavaScript",
         "React",
         "JSON Resume",
-        "Travis CI"
+        "Travis CI",
+        "Git"
       ],
       "img": "img/projects/portfolio.png",
       "url": "https://github.com/hugoseri/portfolio-hugo",
@@ -318,7 +320,8 @@
         "Network game management using sockets and threads"
       ],
       "skills": [
-        "Java"
+        "Java",
+        "Git"
       ],
       "img": "img/projects/demineur.png",
       "url": "https://github.com/hugoseri/demineur",
@@ -331,7 +334,8 @@
       "highlights": [],
       "skills": [
         "C++",
-        "UML"
+        "UML",
+        "Git"
       ],
       "img": "img/projects/uml.jpg",
       "url": "https://github.com/hugoseri/uml_cpp",
@@ -348,7 +352,8 @@
       "skills": [
         "Embedded C",
         "STM32",
-        "Bluetooth"
+        "Bluetooth",
+        "Git"
       ],
       "img": "img/projects/robot2.jpg",
       "url": "https://github.com/hugoseri/robot2",
@@ -360,7 +365,8 @@
       "summary": "This project is part of a cryptography course I have followed with my school. The project is available on my github account, written in C++. It's a really small project (I spent about 10 hours on it), but it enabled me to discover in details one of the most used symmetric-key cryptography algorithm.",
       "highlights": [],
       "skills": [
-        "C++"
+        "C++",
+        "Git"
       ],
       "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
