@@ -7,6 +7,7 @@ import Footer from './footer'
 import Skills from "./skills";
 import Projects from "./projects";
 import Hobbies from "./hobbies";
+import Photos from "./photos";
 
 class Section extends React.Component{
 
@@ -31,6 +32,8 @@ class Section extends React.Component{
                 <Hobbies
                     hobbies={this.props.resume.hobbies}
                     hobbies_text={this.props.additional_text.hobbies}/>
+                <Photos
+                    photos_text={this.props.additional_text.photos}/>
                 <Footer/>
             </div>
         );
