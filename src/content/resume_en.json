@@ -10,6 +10,7 @@
     "phone": "+(33)6 22 14 94 19",
     "github": "https://github.com/hugoseri",
     "linkedin": "https://www.linkedin.com/in/hugoserieys/",
+    "flickr": "https://www.flickr.com/photos/hugoseri/",
     "summary": "Computer science student",
     "location": {
       "address": "",
@@ -294,6 +295,11 @@
         "name": "Pastry",
         "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
         "img": "cookie-bite"
+      },
+      {
+        "name": "Travel",
+        "summary": "En complément de la course à pied, j'ai commmencé depuis septembre 2019 à nager une à deux fois par semaine.",
+        "img": "globe-europe"
       }
     ]
   ]
