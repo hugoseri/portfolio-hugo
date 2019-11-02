@@ -28,6 +28,7 @@ class Presentation extends React.Component {
                                             </li>
                                         </ul>
                                         <ul className="list personal_social">
+                                            <li><a href={this.props.pres_text.resume_path} target="_blank" rel="noopener noreferrer" id="download_cv">{this.props.pres_text.resume_button}</a></li>
                                             <li><a href={this.props.basics.github} target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
                                             <li><a href={this.props.basics.linkedin} target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a></li>
                                             <li><a href={this.props.basics.flickr} target="_blank" rel="noopener noreferrer"><i className="fa fa-flickr"></i></a></li>

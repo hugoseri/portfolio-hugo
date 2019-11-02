@@ -4,10 +4,13 @@
     "work_education": "Education and experiences",
     "projects": "Projects",
     "skill": "Skills",
-    "hobbies": "Hobbies"
+    "hobbies": "Hobbies",
+    "photos": "Gallery"
   },
   "presentation": {
-    "hello": "Hello, I am"
+    "hello": "Hello, I am",
+    "resume_path": "files/cv_en.pdf",
+    "resume_button": "Download my resume !"
   },
   "tabs": {
     "work": "My work experiences",
@@ -30,5 +33,9 @@
   "hobbies": {
     "main_title": "My hobbies",
     "subtitles": ["Sports", "Arts", "Miscellaneous"]
+  },
+  "photos": {
+    "title": "My photos",
+    "names": ["travel1", "travel2", "travel3", "food1", "food2", "food3", "drawing1", "drawing2", "drawing3", "landscape1", "landscape2", "landscape3", "trail1", "trail2", "trail3"]
   }
 }

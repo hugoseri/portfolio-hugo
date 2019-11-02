@@ -4,10 +4,13 @@
     "work_education": "Formation et expériences",
     "projects": "Projets",
     "skill": "Compétences",
-    "hobbies": "Loisirs"
+    "hobbies": "Loisirs",
+    "photos": "Galerie"
   },
   "presentation": {
-    "hello": "Hello, moi c'est"
+    "hello": "Hello, moi c'est",
+    "resume_path": "files/cv_fr.pdf",
+    "resume_button": "Téléchargez mon CV !"
   },
   "tabs": {
     "work": "Mes expériences professionnelles",
@@ -30,5 +33,10 @@
   "hobbies": {
     "main_title": "Mes loisirs",
     "subtitles": ["Sports", "Arts", "Divers"]
+  },
+  "photos": {
+    "title": "Mes photos",
+    "categories": ["Tout", "Paysage", "Voyage", "Pâtisserie", "Sport", "Dessin"],
+    "names": ["travel1", "travel2", "travel3", "food1", "food2", "food3", "drawing1", "drawing2", "drawing3", "landscape1", "landscape2", "landscape3", "trail1", "trail2", "trail3"]
   }
 }

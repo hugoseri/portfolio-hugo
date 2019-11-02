@@ -1740,7 +1740,8 @@ h6 {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 200px;
+  height: 300px;
+  width: 100%;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2904,6 +2905,18 @@ h6 {
       text-align: center;
       color: #fff;
       font-size: 16px; }
+    .personal_text .personal_social #download_cv {
+      width: auto;
+      padding: 0 20px;
+      margin: 10px;
+      background-image: -moz-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
+      background-image: -webkit-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
+      background-image: -ms-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
+    }
+    .personal_text .personal_social #download_cv:hover {
+
+    }
+
     .personal_text .personal_social li:hover a {
       background-image: -moz-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
       background-image: -webkit-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
