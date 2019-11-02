@@ -3,7 +3,8 @@
     "home": "Profile",
     "work_education": "Education and experiences",
     "projects": "Projects",
-    "skill": "Skills"
+    "skill": "Skills",
+    "hobbies": "Hobbies"
   },
   "presentation": {
     "hello": "Hello, I am"
@@ -25,5 +26,9 @@
   },
   "languages": {
     "title": "Languages"
+  },
+  "hobbies": {
+    "main_title": "My hobbies",
+    "subtitles": ["Sports", "Arts", "Miscellaneous"]
   }
 }

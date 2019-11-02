@@ -6,6 +6,7 @@ import Tabs from './tabs'
 import Footer from './footer'
 import Skills from "./skills";
 import Projects from "./projects";
+import Hobbies from "./hobbies";
 
 class Section extends React.Component{
 
@@ -27,6 +28,9 @@ class Section extends React.Component{
                         languages={this.props.resume.languages}
                         languages_text={this.props.additional_text.languages}
                         skills_text={this.props.additional_text.skills}/>
+                <Hobbies
+                    hobbies={this.props.resume.hobbies}
+                    hobbies_text={this.props.additional_text.hobbies}/>
                 <Footer/>
             </div>
         );

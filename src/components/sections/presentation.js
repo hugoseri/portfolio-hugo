@@ -30,6 +30,7 @@ class Presentation extends React.Component {
                                         <ul className="list personal_social">
                                             <li><a href={this.props.basics.github} target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
                                             <li><a href={this.props.basics.linkedin} target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a></li>
+                                            <li><a href={this.props.basics.flickr} target="_blank" rel="noopener noreferrer"><i className="fa fa-flickr"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
