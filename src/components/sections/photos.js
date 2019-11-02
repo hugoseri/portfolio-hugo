@@ -16,7 +16,7 @@ class Photos extends React.Component{
                         <div className="row gallery-item">
                             {this.props.photos_text.names.map(function (name, index) {
                                 return (
-                                    <div className=" col-md-4">
+                                    <div className=" col-lg-4">
                                         <div key={index} alt={name} className="single-gallery-image" style={{background: `url(img/gallery/${name}.jpg`}}></div>
                                     </div>
                                 );

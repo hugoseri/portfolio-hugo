@@ -8,7 +8,9 @@
     "photos": "Galerie"
   },
   "presentation": {
-    "hello": "Hello, moi c'est"
+    "hello": "Hello, moi c'est",
+    "resume_path": "files/cv_fr.pdf",
+    "resume_button": "Téléchargez mon CV !"
   },
   "tabs": {
     "work": "Mes expériences professionnelles",
