@@ -2,7 +2,7 @@
   "name": "portfolio-hugo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hugoseri.github.io/portfolio-hugo",
+  "homepage": "https://hugoserieys.com",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "history": "latest",
