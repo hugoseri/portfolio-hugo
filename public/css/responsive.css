@@ -9,6 +9,9 @@
 	.banner_area .box_1620 {
 		border-radius: 0px;
 	}
+	.img_me {
+		width: 100%;
+	}
 }
 @media (max-width:1300px){
 	.testimonials_area .owl-prev, .testimonials_area .owl-next {
