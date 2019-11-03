@@ -10,7 +10,7 @@ class Presentation extends React.Component {
                         <div className="banner_content">
                             <div className="media">
                                 <div className="d-flex">
-                                    <img className="d-flex" src="img/me_black_small.png" alt="me"/>
+                                    <img className="d-flex img_me" src="img/me_nature_medium.png" alt="me"/>
                                 </div>
                                 <div className="media-body">
                                     <div className="personal_text">
@@ -28,7 +28,7 @@ class Presentation extends React.Component {
                                             </li>
                                         </ul>
                                         <ul className="list personal_social">
-                                            <li><a href={this.props.pres_text.resume_path} target="_blank" rel="noopener noreferrer" id="download_cv">{this.props.pres_text.resume_button}</a></li>
+                                            <li><a href={this.props.pres_text.resume_path} target="_blank" rel="noopener noreferrer" id="download_cv">{this.props.pres_text.resume_button}</a></li><br/>
                                             <li><a href={this.props.basics.github} target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
                                             <li><a href={this.props.basics.linkedin} target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a></li>
                                             <li><a href={this.props.basics.flickr} target="_blank" rel="noopener noreferrer"><i className="fa fa-flickr"></i></a></li>

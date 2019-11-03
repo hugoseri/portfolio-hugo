@@ -2658,6 +2658,7 @@ h6 {
       color: #777777;
       margin-bottom: 0px;
       padding-top: 20px; }
+
       .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
         margin-right: 50px;
         text-align: right;
@@ -2908,7 +2909,7 @@ h6 {
     .personal_text .personal_social #download_cv {
       width: auto;
       padding: 0 20px;
-      margin: 10px;
+      margin: 10px 0;
       background-image: -moz-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
       background-image: -webkit-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);
       background-image: -ms-linear-gradient(0deg, #FF9A63 0%, #f2c24b 100%);

@@ -39,7 +39,8 @@
         "Pytest (TDD)",
         "Sphinx",
         "Docker",
-        "Linux"
+        "Linux",
+        "Git"
       ],
       "endDate": "2019-08-01"
     },
@@ -297,7 +298,8 @@
         "JavaScript",
         "React",
         "JSON Resume",
-        "Travis CI"
+        "Travis CI",
+        "Git"
       ],
       "img": "img/projects/portfolio.png",
       "url": "https://github.com/hugoseri/portfolio-hugo",
@@ -313,7 +315,8 @@
         "Gestion du jeu en réseau à l'aide de threads et sockets."
       ],
       "skills": [
-        "Java"
+        "Java",
+        "Git"
       ],
       "url": "https://github.com/hugoseri/demineur",
       "img": "img/projects/demineur.png",
@@ -326,7 +329,8 @@
       "highlights": [],
       "skills": [
         "C++",
-        "UML"
+        "UML",
+        "Git"
       ],
       "img": "img/projects/uml.jpg",
       "url": "https://github.com/hugoseri/uml_cpp",
@@ -343,7 +347,8 @@
       "skills": [
         "C embarqué",
         "STM32",
-        "Bluetooth"
+        "Bluetooth",
+        "Git"
       ],
       "img": "img/projects/robot2.jpg",
       "url": "https://github.com/hugoseri/robot2",
@@ -355,7 +360,8 @@
       "summary": "Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
       "highlights": [],
       "skills": [
-        "C++"
+        "C++",
+        "Git"
       ],
       "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
