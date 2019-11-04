@@ -1,3 +1,10 @@
+## Overview
+<p align="center">
+  <img src="public/img/projects/portfolio.png" alt="Website overview" height="400"/>
+  <br/>
+  <i>Website overview</i>
+</p>
+
 ## Motivation
 The goal of this project was to develop a portfolio website to present myself and to discover a trendy JavaScript framework: [ReactJS](https://fr.reactjs.org).
 
