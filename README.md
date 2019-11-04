@@ -1,4 +1,3 @@
-## Overview
 <p align="center">
   <img src="public/img/projects/portfolio.png" alt="Website overview" height="400"/>
   <br/>
