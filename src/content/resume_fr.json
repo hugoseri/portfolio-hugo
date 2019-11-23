@@ -174,7 +174,7 @@
         "Théorie des graphes et optimisation en C",
         "Architecture client/serveur en C",
         "Réseau avec Cisco Packet Tracer",
-        "VHDL",
+        "VHDL (implémentation algorithme AES de déchiffrement",
         "UML"
       ],
       "endDate": "2020-10-01"
@@ -202,6 +202,7 @@
       "level": "",
       "keywords": [
         "JavaScript",
+        "TypeScript",
         "jQuery",
         "React",
         "PHP",
@@ -216,6 +217,7 @@
       "level": "",
       "keywords": [
         "Python",
+        "Kotlin",
         "C",
         "C++",
         "Java",
@@ -281,6 +283,29 @@
     }
   ],
   "projects": [
+    {
+      "name": "Application mobile et API de gestion de cave",
+      "startDate": "2019-09-01",
+      "summary": "Développement d'une application mobile Android et d'une API de gestion de cave.",
+      "highlights": [
+        "Développement mobile avec Kotlin",
+        "Développement API avec NodeJS (framework Nest) en TypeScript",
+        "Utilisation de Postman pour tester l'API",
+        "Mise en place d'une base de données locale avec Room"
+      ],
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "NodeJS",
+        "Nest",
+        "Kotlin",
+        "Android",
+        "Git"
+      ],
+      "img": "img/projects/cellar-app.png",
+      "url": "https://github.com/hugoseri/cellar-app",
+      "endDate": "2019-11-01"
+    },
     {
       "name": "Site web portfolio",
       "startDate": "2019-10-01",

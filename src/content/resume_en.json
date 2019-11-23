@@ -45,7 +45,7 @@
       "endDate": "2019-08-01"
     },
     {
-      "company": "École des Mines de Saint-Étienne",
+      "company": "Mines Saint Etienne Engineering School",
       "position": "Project manager",
       "website": "https://www.mines-stetienne.fr/formation/ismin/",
       "startDate": "2018-09-01",
@@ -157,7 +157,7 @@
   ],
   "education": [
     {
-      "institution": "École des Mines de Saint-Étienne (Gardanne, France)",
+      "institution": "Mines Saint Etienne Engineering School (Gardanne, France)",
       "area": "",
       "studyType": "Master degree in computer science and electronics",
       "startDate": "2017-09-01",
@@ -174,7 +174,7 @@
         "Graph theory and mathematical optimization using C",
         "Client/server architecture using C",
         "Computer networks using Cisco Packet Tracer",
-        "VHDL (AES implementation)",
+        "VHDL (AES decipher algorithm implementation)",
         "UML"
       ],
       "endDate": "2020-10-01"
@@ -202,6 +202,7 @@
       "level": "",
       "keywords": [
         "JavaScript",
+        "TypeScript",
         "jQuery",
         "React",
         "PHP",
@@ -216,6 +217,7 @@
       "level": "",
       "keywords": [
         "Python",
+        "Kotlin",
         "C",
         "C++",
         "Java",
@@ -286,6 +288,29 @@
     }
   ],
   "projects": [
+    {
+      "name": "Mobile app and API for cellar management",
+      "startDate": "2019-09-01",
+      "summary": "Android mobile app and API development for cellar management.",
+      "highlights": [
+        "Mobile development using Kotlin",
+        "API development using NodeJS (Nest framework) in TypeScript",
+        "Use of Postman for API requests testing",
+        "Local database using Room"
+      ],
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "NodeJS",
+        "Nest",
+        "Kotlin",
+        "Android",
+        "Git"
+      ],
+      "img": "img/projects/cellar-app.png",
+      "url": "https://github.com/hugoseri/cellar-app",
+      "endDate": "2019-11-01"
+    },
     {
       "name": "Portfolio website",
       "startDate": "2019-10-01",
