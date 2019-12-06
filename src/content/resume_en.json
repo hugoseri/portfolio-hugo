@@ -289,6 +289,27 @@
   ],
   "projects": [
     {
+      "name": "Mobile app for french railway company archives",
+      "startDate": "2019-11-01",
+      "summary": "Android mobile app to access SNCF (french railway company) archives.",
+      "highlights": [
+        "Mobile development using Kotlin",
+        "API requests to get data using Retrofit",
+        "Map management using Google Maps API",
+        "Search filter",
+        "Local database using Room"
+      ],
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Retrofit",
+        "Git"
+      ],
+      "img": "img/projects/sncf.png",
+      "url": "https://github.com/hugoseri/open-data-android-app-hugoseri",
+      "endDate": "2019-12-01"
+    },
+    {
       "name": "Mobile app and API for cellar management",
       "startDate": "2019-09-01",
       "summary": "Android mobile app and API development for cellar management.",
@@ -305,6 +326,7 @@
         "Nest",
         "Kotlin",
         "Android",
+        "Retrofit",
         "Git"
       ],
       "img": "img/projects/cellar-app.png",

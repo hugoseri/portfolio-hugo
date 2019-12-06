@@ -284,6 +284,27 @@
   ],
   "projects": [
     {
+      "name": "Application mobile archives SNCF",
+      "startDate": "2019-11-01",
+      "summary": "Développement d'une application mobile Android pour la consultation d'archives de la SNCF.",
+      "highlights": [
+        "Développement mobile avec Kotlin",
+        "Requêtes API pour récupérer les données avec Retrofit",
+        "Affichage et gestion d'une carte avec l'API Google Maps",
+        "Mise en place d'une recherche filtrée",
+        "Mise en place d'une base de données locale avec Room"
+      ],
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Retrofit",
+        "Git"
+      ],
+      "img": "img/projects/sncf.png",
+      "url": "https://github.com/hugoseri/open-data-android-app-hugoseri",
+      "endDate": "2019-12-01"
+    },
+    {
       "name": "Application mobile et API de gestion de cave",
       "startDate": "2019-09-01",
       "summary": "Développement d'une application mobile Android et d'une API de gestion de cave.",
@@ -300,6 +321,7 @@
         "Nest",
         "Kotlin",
         "Android",
+        "Retrofit",
         "Git"
       ],
       "img": "img/projects/cellar-app.png",
