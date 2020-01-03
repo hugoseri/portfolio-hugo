@@ -289,6 +289,25 @@
   ],
   "projects": [
     {
+      "name": "Showcase website",
+      "startDate": "2019-12-01",
+      "summary": "Development of a showcase website for a craftsman.",
+      "highlights": [
+        "Build of the website using Wordpress to ease modifications by the client",
+        "Use of different extensions (Yoast SEO, Calculated Field Forms...)",
+        "Design emplate choice and customization of it"
+      ],
+      "skills": [
+        "WordPress",
+        "SEO",
+        "HTML",
+        "CSS"
+      ],
+      "img": "img/projects/frr.png",
+      "url": "",
+      "endDate": "2019-12-01"
+    },
+    {
       "name": "Mobile app for french railway company archives",
       "startDate": "2019-11-01",
       "summary": "Android mobile app to access SNCF (french railway company) archives.",

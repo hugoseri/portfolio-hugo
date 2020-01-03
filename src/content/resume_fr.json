@@ -284,6 +284,25 @@
   ],
   "projects": [
     {
+      "name": "Site web vitrine",
+      "startDate": "2019-12-01",
+      "summary": "Développement d'un site web vitrine pour un artisan.",
+      "highlights": [
+        "Mise en place du site via Wordpress pour faciliter l'édition par le client",
+        "Utilisation de diverses extensions (Yoast SEO, Calculated Field Forms...)",
+        "Choix d'un template graphique et personnalisation de celui-ci"
+      ],
+      "skills": [
+        "WordPress",
+        "SEO",
+        "HTML",
+        "CSS"
+      ],
+      "img": "img/projects/frr.png",
+      "url": "",
+      "endDate": "2019-12-01"
+    },
+    {
       "name": "Application mobile archives SNCF",
       "startDate": "2019-11-01",
       "summary": "Développement d'une application mobile Android pour la consultation d'archives de la SNCF.",
