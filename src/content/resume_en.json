@@ -23,6 +23,28 @@
   },
   "work": [
     {
+      "company": "ENOVACOM Surycat",
+      "position": "Front End Web Developer",
+      "website": "https://surycat.io/#home",
+      "startDate": "2020-04-06",
+      "summary": "End of study internship among R&D team of the Surycat project. My internship topic is about upgrading a flowchart design tool from AngularJS to Angular 2+. Upgrade should also include new features for improved user experience.",
+      "highlights": [
+        "Benchmark of javascript flowchart libraries",
+        "Flowchart design tool implementation"
+      ],
+      "skills": [
+        "Angular",
+        "Typescript",
+        "D3JS",
+        "DagreJS",
+        "Docker",
+        "Linux",
+        "Git",
+        "Scrum"
+      ],
+      "endDate": "..."
+    },
+    {
       "company": "EURA NOVA",
       "position": "Data science research intern",
       "website": "https://euranova.eu/",
@@ -134,12 +156,7 @@
         "Set up of a GitHub repository to improve teamwork and project management",
         "Front-end features"
       ],
-      "skills": [
-        "HTML",
-        "CSS",
-        "JavaScript (jQuery)",
-        "Git"
-      ],
+      "skills": ["HTML", "CSS", "JavaScript (jQuery)", "Git"],
       "endDate": "2018-04-01"
     },
     {
@@ -149,9 +166,7 @@
       "startDate": "2017-09-01",
       "summary": "Help for organizing, animating events for the association. The goal of this association is to do science popularization during different local events.",
       "highlights": [],
-      "skills": [
-        "Popularization"
-      ],
+      "skills": ["Popularization"],
       "endDate": "2017-12-01"
     }
   ],
@@ -203,8 +218,10 @@
       "keywords": [
         "JavaScript",
         "TypeScript",
+        "Angular",
         "jQuery",
         "React",
+        "D3JS",
         "PHP",
         "HTML",
         "CSS",
@@ -218,6 +235,7 @@
       "keywords": [
         "Python",
         "Kotlin",
+        "Docker",
         "C",
         "C++",
         "Java",
@@ -231,10 +249,7 @@
     {
       "name": "DataBases",
       "level": "",
-      "keywords": [
-        "MySQL",
-        "PostGreSQL"
-      ]
+      "keywords": ["MySQL", "PostGreSQL"]
     },
     {
       "name": "Graphic design and art related skills",
@@ -250,19 +265,12 @@
     {
       "name": "Project management",
       "level": "",
-      "keywords": [
-        "Git",
-        "Scrum"
-      ]
+      "keywords": ["Git", "Scrum"]
     },
     {
       "name": "Other technical skills",
       "level": "",
-      "keywords": [
-        "Solidworks",
-        "AnyLogic",
-        "Microsoft Excel"
-      ]
+      "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
     }
   ],
   "languages": [
@@ -297,12 +305,7 @@
         "Use of different extensions (Yoast SEO, Calculated Field Forms...)",
         "Design emplate choice and customization of it"
       ],
-      "skills": [
-        "WordPress",
-        "SEO",
-        "HTML",
-        "CSS"
-      ],
+      "skills": ["WordPress", "SEO", "HTML", "CSS"],
       "img": "img/projects/frr.png",
       "url": "",
       "endDate": "2019-12-01"
@@ -318,12 +321,7 @@
         "Search filter",
         "Local database using Room"
       ],
-      "skills": [
-        "Kotlin",
-        "Android",
-        "Retrofit",
-        "Git"
-      ],
+      "skills": ["Kotlin", "Android", "Retrofit", "Git"],
       "img": "img/projects/sncf.png",
       "url": "https://github.com/hugoseri/open-data-android-app-hugoseri",
       "endDate": "2019-12-01"
@@ -385,10 +383,7 @@
         "User interface",
         "Network game management using sockets and threads"
       ],
-      "skills": [
-        "Java",
-        "Git"
-      ],
+      "skills": ["Java", "Git"],
       "img": "img/projects/demineur.png",
       "url": "https://github.com/hugoseri/demineur",
       "endDate": "2019-10-01"
@@ -398,11 +393,7 @@
       "startDate": "2018-11-01",
       "summary": "This is a small school project. Its goal was to design and implement a simplified course selection system, using UML and C++. It was done in several hours of development.",
       "highlights": [],
-      "skills": [
-        "C++",
-        "UML",
-        "Git"
-      ],
+      "skills": ["C++", "UML", "Git"],
       "img": "img/projects/uml.jpg",
       "url": "https://github.com/hugoseri/uml_cpp",
       "endDate": "2019-12-01"
@@ -415,12 +406,7 @@
         "Pre-study before actual implementation: algorigrams, pseudo-code, robot architecture (superviser/controler)",
         "Implementation in embedded C on STM32."
       ],
-      "skills": [
-        "Embedded C",
-        "STM32",
-        "Bluetooth",
-        "Git"
-      ],
+      "skills": ["Embedded C", "STM32", "Bluetooth", "Git"],
       "img": "img/projects/robot2.jpg",
       "url": "https://github.com/hugoseri/robot2",
       "endDate": "2019-01-01"
@@ -430,10 +416,7 @@
       "startDate": "2018-10-01",
       "summary": "This project is part of a cryptography course I have followed with my school. The project is available on my github account, written in C++. It's a really small project (I spent about 10 hours on it), but it enabled me to discover in details one of the most used symmetric-key cryptography algorithm.",
       "highlights": [],
-      "skills": [
-        "C++",
-        "Git"
-      ],
+      "skills": ["C++", "Git"],
       "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
       "endDate": "2018-11-01"
@@ -462,9 +445,7 @@
       "startDate": "2016-01-01",
       "summary": "During my two year course before engineering school, I did a research project (sort of a micro-thesis) about acoustic angle measuring systems : how to localize an acoustic source.\nI made many researches, experiments, simulations, contact with a researcher.",
       "highlights": [],
-      "skills": [
-        "Python"
-      ],
+      "skills": ["Python"],
       "img": "img/projects/tipe.png",
       "url": "",
       "endDate": "2017-07-01"

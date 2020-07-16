@@ -23,6 +23,28 @@
   },
   "work": [
     {
+      "company": "ENOVACOM Surycat",
+      "position": "Développeur web frontend",
+      "website": "https://surycat.io/#home",
+      "startDate": "2020-04-06",
+      "summary": "Stage de fin d'étude réalise au sein de l'équipe R&D du project Surycat. Mon sujet de stage traite de la migration d'un outil de conception de diagrammes d'Angular JS à Angular2+. Cette migration inclut également de nouvelles fonctionnalités pour une expérience utilisateur plus intuitive.",
+      "highlights": [
+        "Réalisation d'un comparatif des librairies Javascript de diagrammes",
+        "Implémentation d'un outil de conception de diagrammes"
+      ],
+      "skills": [
+        "Angular",
+        "Typescript",
+        "D3JS",
+        "DagreJS",
+        "Docker",
+        "Linux",
+        "Git",
+        "Scrum"
+      ],
+      "endDate": "..."
+    },
+    {
       "company": "EURA NOVA",
       "position": "Stagiaire data science en recherche et développement",
       "website": "https://euranova.eu/",
@@ -134,12 +156,7 @@
         "Mise en place d'un dépôt GitHub pour faciliter le travail d'équipe et la gestion de projet",
         "Modifications sur le front-end"
       ],
-      "skills": [
-        "HTML",
-        "CSS",
-        "JavaScript (jQuery)",
-        "Git"
-      ],
+      "skills": ["HTML", "CSS", "JavaScript (jQuery)", "Git"],
       "endDate": "2018-04-01"
     },
     {
@@ -149,9 +166,7 @@
       "startDate": "2017-09-01",
       "summary": "Aide à l'organisation, l'animation d'évènements pour l'association Illu-Mines qui a pour but de faire de la vulgarisation scientifique lors d'évènements tels que la Gaming Gen ou la fête de la science.",
       "highlights": [],
-      "skills": [
-        "Vulgarisation"
-      ],
+      "skills": ["Vulgarisation"],
       "endDate": "2017-12-01"
     }
   ],
@@ -203,8 +218,10 @@
       "keywords": [
         "JavaScript",
         "TypeScript",
+        "Angular",
         "jQuery",
         "React",
+        "D3JS",
         "PHP",
         "HTML",
         "CSS",
@@ -218,6 +235,7 @@
       "keywords": [
         "Python",
         "Kotlin",
+        "Docker",
         "C",
         "C++",
         "Java",
@@ -231,10 +249,7 @@
     {
       "name": "Bases de données",
       "level": "",
-      "keywords": [
-        "MySQL",
-        "PostGreSQL"
-      ]
+      "keywords": ["MySQL", "PostGreSQL"]
     },
     {
       "name": "Graphisme et compétences artistiques",
@@ -250,19 +265,12 @@
     {
       "name": "Gestion de projet",
       "level": "",
-      "keywords": [
-        "Git",
-        "Scrum"
-      ]
+      "keywords": ["Git", "Scrum"]
     },
     {
       "name": "Autre compétences techniques",
       "level": "",
-      "keywords": [
-        "Solidworks",
-        "AnyLogic",
-        "Microsoft Excel"
-      ]
+      "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
     }
   ],
   "languages": [
@@ -292,12 +300,7 @@
         "Utilisation de diverses extensions (Yoast SEO, Calculated Field Forms...)",
         "Choix d'un template graphique et personnalisation de celui-ci"
       ],
-      "skills": [
-        "WordPress",
-        "SEO",
-        "HTML",
-        "CSS"
-      ],
+      "skills": ["WordPress", "SEO", "HTML", "CSS"],
       "img": "img/projects/frr.png",
       "url": "",
       "endDate": "2019-12-01"
@@ -313,12 +316,7 @@
         "Mise en place d'une recherche filtrée",
         "Mise en place d'une base de données locale avec Room"
       ],
-      "skills": [
-        "Kotlin",
-        "Android",
-        "Retrofit",
-        "Git"
-      ],
+      "skills": ["Kotlin", "Android", "Retrofit", "Git"],
       "img": "img/projects/sncf.png",
       "url": "https://github.com/hugoseri/open-data-android-app-hugoseri",
       "endDate": "2019-12-01"
@@ -380,10 +378,7 @@
         "Interface utilisateur",
         "Gestion du jeu en réseau à l'aide de threads et sockets."
       ],
-      "skills": [
-        "Java",
-        "Git"
-      ],
+      "skills": ["Java", "Git"],
       "url": "https://github.com/hugoseri/demineur",
       "img": "img/projects/demineur.png",
       "endDate": "2019-10-01"
@@ -393,11 +388,7 @@
       "startDate": "2018-11-01",
       "summary": "Il s'agit d'un cours projet scolaire. L'objectif était de concevoir et implémenter un système simplifié de selection de cours, à l'aide de UML et C++. Cela a été réalisé en quelques heures de travail.",
       "highlights": [],
-      "skills": [
-        "C++",
-        "UML",
-        "Git"
-      ],
+      "skills": ["C++", "UML", "Git"],
       "img": "img/projects/uml.jpg",
       "url": "https://github.com/hugoseri/uml_cpp",
       "endDate": "2019-12-01"
@@ -410,12 +401,7 @@
         "Etude préalable: algorigrammes, pseudo-code et architecture du robot (supervision/contrôle)",
         "Implémentation en C embarqué sur STM32."
       ],
-      "skills": [
-        "C embarqué",
-        "STM32",
-        "Bluetooth",
-        "Git"
-      ],
+      "skills": ["C embarqué", "STM32", "Bluetooth", "Git"],
       "img": "img/projects/robot2.jpg",
       "url": "https://github.com/hugoseri/robot2",
       "endDate": "2019-01-01"
@@ -425,10 +411,7 @@
       "startDate": "2018-10-01",
       "summary": "Ce projet fait partie du cours d'introduction à la cryptographie dans le cadre de ma formation à l'Ecole des Mines de Saint Etienne. Le lien du projet comporte le dépôt du code réalisé en C++. C'est un petit projet (environ 10 heures de travail), mais qui m'a permis de découvrir en détails l'un des plus populaires algorithmes à clé symétrique.",
       "highlights": [],
-      "skills": [
-        "C++",
-        "Git"
-      ],
+      "skills": ["C++", "Git"],
       "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
       "endDate": "2018-11-01"
@@ -443,11 +426,7 @@
         "Développement logiciel du robot en réponse à un cahier des charges imposé",
         "Tests en simulation et en réel du robot"
       ],
-      "skills": [
-        "C embarqué (timers, interruptions, UART...)",
-        "PIC18",
-        "I2C"
-      ],
+      "skills": ["C embarqué (timers, interruptions, UART...)", "PIC18", "I2C"],
       "img": "img/projects/robot1.png",
       "url": "",
       "endDate": "2018-06-01"
@@ -457,9 +436,7 @@
       "startDate": "2016-01-01",
       "summary": "Dans le cadre de mes études en classe préparatoire, j'ai été amené un projet de recherche (sorte de mini thèse) sur le thème d'un goniomètre acoustique : comment localiser une source sonore. Pour ce faire, différentes expériences ont été réalisées, simulations, contacts avec un chercheur...",
       "highlights": [],
-      "skills": [
-        "Python"
-      ],
+      "skills": ["Python"],
       "img": "img/projects/tipe.png",
       "url": "",
       "endDate": "2017-07-01"
