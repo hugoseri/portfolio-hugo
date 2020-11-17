@@ -27,7 +27,7 @@
       "position": "Développeur web frontend",
       "website": "https://surycat.io/#home",
       "startDate": "2020-04-06",
-      "summary": "Stage de fin d'étude réalise au sein de l'équipe R&D du project Surycat. Mon sujet de stage traite de la migration d'un outil de conception de diagrammes d'Angular JS à Angular2+. Cette migration inclut également de nouvelles fonctionnalités pour une expérience utilisateur plus intuitive.",
+      "summary": "Stage de fin d'étude réalise au sein de l'équipe R&D du project Surycat. Mon sujet de stage traite de la migration d'un outil de conception de diagrammes d'Angular JS à Angular2+. Cette migration inclut également de nouvelles fonctionnalités pour une expérience utilisateur plus intuitive. Voir plus dans la section projets.",
       "highlights": [
         "Réalisation d'un comparatif des librairies Javascript de diagrammes",
         "Implémentation d'un outil de conception de diagrammes"
@@ -53,7 +53,7 @@
       "highlights": [
         "Implémentation d'algorithmes à l'état de l'art à partir de publications",
         "Réalisation d'un comparatif de ces algorithmes",
-        "Contribution originale : publication d'un papier."
+        "Contribution originale : publication d'un papier (voir plus dans la section projets)."
       ],
       "skills": [
         "Python",
@@ -292,6 +292,63 @@
   ],
   "projects": [
     {
+      "name": "Développement d'un outil de conception de diagramme",
+      "startDate": "2020-04-01",
+      "summary": "Projet de développement d'un outil de conception de diagramme pendant mon stage chez ENOVACOM.",
+      "highlights": [
+        "Outil de conception de diagramme interactif pour faciliter la création de diagrammes complexes"
+      ],
+      "skills": [
+        "Angular",
+        "Typescript",
+        "D3JS",
+        "DagreJS",
+        "Docker",
+        "Linux",
+        "Git"
+      ],
+      "img": "img/projects/surycat.gif",
+      "endDate": "2020-09-01"
+    },
+    {
+      "name": "Projet d'étude sur les attaques de mémoire cache",
+      "startDate": "2020-02-01",
+      "summary": "Projet d'étude fait au cours de ma scolarité sur les attaques de mémoire cache Meltdown et Spectre.",
+      "highlights": [
+        "Etude de Meltdown et Spectre: comment fonctionnent-elles, comment s'en prémunir"
+      ],
+      "skills": [
+        "C",
+        "Assembleur",
+        "Attaque de mémoire cache",
+        "Canaux auxiliaires"
+      ],
+      "img": "img/projects/cache_attacks.png",
+      "endDate": "2020-03-01"
+    },
+
+    {
+      "name": "Publication scientifique en deep learning",
+      "startDate": "2019-03-01",
+      "summary": "Publication scientifique dans le cadre de mon stage chez EURANOVA.",
+      "highlights": [
+        "Publication acceptée pour la conférence ESANN 2020",
+        "Publication traitant de l'adaptation de domaine en apprentissage profond (deep learning)"
+      ],
+      "skills": [
+        "Python",
+        "Tensorflow 2.0",
+        "Pytest (TDD)",
+        "Sphinx",
+        "Docker",
+        "Linux",
+        "Git"],
+      "img": "img/projects/esann_paper.png",
+      "url": "https://www.esann.org/sites/default/files/proceedings/2020/ES2020-114.pdf",
+      "url_title": "Lien vers la publication",
+      "endDate": "2020-08-01"
+    },
+    {
       "name": "Site web vitrine",
       "startDate": "2019-12-01",
       "summary": "Développement d'un site web vitrine pour un artisan.",
@@ -302,8 +359,9 @@
       ],
       "skills": ["WordPress", "SEO", "HTML", "CSS"],
       "img": "img/projects/frr.png",
-      "url": "",
-      "endDate": "2019-12-01"
+      "url": "https://francerouesracing.fr/",
+      "url_title": "Lien du site",
+      "endDate": "2020-01-01"
     },
     {
       "name": "Application mobile archives SNCF",
@@ -319,6 +377,7 @@
       "skills": ["Kotlin", "Android", "Retrofit", "Git"],
       "img": "img/projects/sncf.png",
       "url": "https://github.com/hugoseri/open-data-android-app-hugoseri",
+      "url_title": "Lien du dépôt Github",
       "endDate": "2019-12-01"
     },
     {
@@ -343,6 +402,7 @@
       ],
       "img": "img/projects/cellar-app.png",
       "url": "https://github.com/hugoseri/cellar-app",
+      "url_title": "Lien du dépôt Github",
       "endDate": "2019-11-01"
     },
     {
@@ -367,6 +427,7 @@
       ],
       "img": "img/projects/portfolio.png",
       "url": "https://github.com/hugoseri/portfolio-hugo",
+      "url_title": "Lien du dépôt Github",
       "endDate": "2019-11-01"
     },
     {
@@ -380,6 +441,7 @@
       ],
       "skills": ["Java", "Git"],
       "url": "https://github.com/hugoseri/demineur",
+      "url_title": "Lien du dépôt Github",
       "img": "img/projects/demineur.png",
       "endDate": "2019-10-01"
     },
@@ -391,6 +453,7 @@
       "skills": ["C++", "UML", "Git"],
       "img": "img/projects/uml.jpg",
       "url": "https://github.com/hugoseri/uml_cpp",
+      "url_title": "Lien du dépôt Github",
       "endDate": "2019-12-01"
     },
     {
@@ -404,6 +467,7 @@
       "skills": ["C embarqué", "STM32", "Bluetooth", "Git"],
       "img": "img/projects/robot2.jpg",
       "url": "https://github.com/hugoseri/robot2",
+      "url_title": "Lien du dépôt Github",
       "endDate": "2019-01-01"
     },
     {
@@ -414,6 +478,7 @@
       "skills": ["C++", "Git"],
       "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
+      "url_title": "Lien du dépôt Github",
       "endDate": "2018-11-01"
     },
     {
@@ -428,7 +493,6 @@
       ],
       "skills": ["C embarqué (timers, interruptions, UART...)", "PIC18", "I2C"],
       "img": "img/projects/robot1.png",
-      "url": "",
       "endDate": "2018-06-01"
     },
     {

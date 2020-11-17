@@ -27,7 +27,7 @@
       "position": "Front End Web Developer",
       "website": "https://surycat.io/#home",
       "startDate": "2020-04-06",
-      "summary": "End of study internship among R&D team of the Surycat project. My internship topic is about upgrading a flowchart design tool from AngularJS to Angular 2+. Upgrade should also include new features for improved user experience.",
+      "summary": "End of study internship among R&D team of the Surycat project. My internship topic is about upgrading a flowchart design tool from AngularJS to Angular 2+. Upgrade should also include new features for improved user experience. See more in the projects section.",
       "highlights": [
         "Benchmark of javascript flowchart libraries",
         "Flowchart design tool implementation"
@@ -53,7 +53,7 @@
       "highlights": [
         "Implementation of state-of-the-art algorithms from papers",
         "Benchmark of these algorithms on given image datasets",
-        "Original contribution resulting with a scientific paper."
+        "Original contribution resulting with a scientific paper (see more in the projects section)."
       ],
       "skills": [
         "Python",
@@ -297,6 +297,62 @@
   ],
   "projects": [
     {
+      "name": "Web flowchart design tool",
+      "startDate": "2020-04-01",
+      "summary": "Web flowchart design tool project made during my internship at ENOVACOM.",
+      "highlights": [
+        "Interactive flowchart design tool to easily build complex flowcharts"
+      ],
+      "skills": [
+        "Angular",
+        "Typescript",
+        "D3JS",
+        "DagreJS",
+        "Docker",
+        "Linux",
+        "Git"
+      ],
+      "img": "img/projects/surycat.gif",
+      "endDate": "2020-09-01"
+    },
+    {
+      "name": "Project study on cache attacks",
+      "startDate": "2020-02-01",
+      "summary": "Project study made in school on Meltdown and Spectre cache attacks.",
+      "highlights": [
+        "Study of Meltdown and Spectre: how they work, how they can be avoided"
+      ],
+      "skills": [
+        "C",
+        "Assembly",
+        "Cache attacks",
+        "Side-channel"
+      ],
+      "img": "img/projects/cache_attacks.png",
+      "endDate": "2020-03-01"
+    },
+    {
+      "name": "Deep learning scientific paper",
+      "startDate": "2019-03-01",
+      "summary": "Scientific paper made during my internship at EURANOVA.",
+      "highlights": [
+        "Paper accepted for ESANN 2020 conference",
+        "Paper dealing with domain adaptation in deep learning"
+      ],
+      "skills": [
+        "Python",
+        "Tensorflow 2.0",
+        "Pytest (TDD)",
+        "Sphinx",
+        "Docker",
+        "Linux",
+        "Git"],
+      "img": "img/projects/esann_paper.png",
+      "url": "https://www.esann.org/sites/default/files/proceedings/2020/ES2020-114.pdf",
+      "url_title": "Link to the paper",
+      "endDate": "2020-08-01"
+    },
+    {
       "name": "Showcase website",
       "startDate": "2019-12-01",
       "summary": "Development of a showcase website for a craftsman.",
@@ -307,8 +363,9 @@
       ],
       "skills": ["WordPress", "SEO", "HTML", "CSS"],
       "img": "img/projects/frr.png",
-      "url": "",
-      "endDate": "2019-12-01"
+      "url": "https://francerouesracing.fr/",
+      "url_title": "Website link",
+      "endDate": "2020-01-01"
     },
     {
       "name": "Mobile app for french railway company archives",
@@ -324,6 +381,7 @@
       "skills": ["Kotlin", "Android", "Retrofit", "Git"],
       "img": "img/projects/sncf.png",
       "url": "https://github.com/hugoseri/open-data-android-app-hugoseri",
+      "url_title": "Github link",
       "endDate": "2019-12-01"
     },
     {
@@ -348,6 +406,7 @@
       ],
       "img": "img/projects/cellar-app.png",
       "url": "https://github.com/hugoseri/cellar-app",
+      "url_title": "Github link",
       "endDate": "2019-11-01"
     },
     {
@@ -372,6 +431,7 @@
       ],
       "img": "img/projects/portfolio.png",
       "url": "https://github.com/hugoseri/portfolio-hugo",
+      "url_title": "Github link",
       "endDate": "2019-11-01"
     },
     {
@@ -386,6 +446,7 @@
       "skills": ["Java", "Git"],
       "img": "img/projects/demineur.png",
       "url": "https://github.com/hugoseri/demineur",
+      "url_title": "Github link",
       "endDate": "2019-10-01"
     },
     {
@@ -396,6 +457,7 @@
       "skills": ["C++", "UML", "Git"],
       "img": "img/projects/uml.jpg",
       "url": "https://github.com/hugoseri/uml_cpp",
+      "url_title": "Github link",
       "endDate": "2019-12-01"
     },
     {
@@ -409,6 +471,7 @@
       "skills": ["Embedded C", "STM32", "Bluetooth", "Git"],
       "img": "img/projects/robot2.jpg",
       "url": "https://github.com/hugoseri/robot2",
+      "url_title": "Github link",
       "endDate": "2019-01-01"
     },
     {
@@ -419,6 +482,7 @@
       "skills": ["C++", "Git"],
       "img": "img/projects/aes.png",
       "url": "https://github.com/hugoseri/AES",
+      "url_title": "Github link",
       "endDate": "2018-11-01"
     },
     {
