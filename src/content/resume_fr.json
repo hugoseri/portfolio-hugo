@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hugo Serieys",
-    "label": "Toujours curieux, je cherche constamment à découvrir de nouvelles technos, méthodes, pratiques pour m'améliorer dans mon travail. Ayant également une sensibilité graphique, j'accorde une grande importance à l'aspect visuel de mes projets et pour moi, chaque détail compte ! ",
+    "label": "Mon objectif central en tant que développeur, c'est de mettre mes compétences techniques au service d'un projet ambitieux et inspirant... Le tout au sein d'une équipe qui me fait progresser au quotidien !",
     "picture": "",
     "birth": {
       "date": "27 Avril 1997"
@@ -10,8 +10,8 @@
     "phone": "+(33)6 22 14 94 19",
     "github": "https://github.com/hugoseri",
     "linkedin": "https://www.linkedin.com/in/hugoserieys/",
-    "flickr": "https://www.flickr.com/photos/hugoseri/",
-    "summary": "Etudiant en informatique",
+    "twitter": "https://twitter.com/hugoseri",
+    "summary": "Développeur frontend",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,8 +22,32 @@
     "profiles": []
   },
   "work": [
+
     {
-      "company": "ENOVACOM Surycat",
+      "company": "ENOVACOM",
+      "position": "Développeur web frontend",
+      "website": "https://www.enovacom.com/",
+      "startDate": "2020-10-06",
+      "summary": "CDI au sein de l'équipe transverse de la R&D. Tâches liées à des sujets frontend et de design.",
+      "highlights": [
+        "Mise en place d'un design system (design tokens, charte graphique, bonnes pratiques UI/UX, templates, documentation)",
+        "Migration frontend d'une application vers React",
+        "Maquettage d'une application via Figma",
+        "Développement d'une application interne en React",
+        "Intégration d'un layout de login (LESS + Javascript)"
+      ],
+      "skills": [
+        "React",
+        "CSS",
+        "MaterialUI",
+        "Docusaurus",
+        "Style dictionary",
+        "Figma"
+      ],
+      "endDate": "..."
+    },
+    {
+      "company": "ENOVACOM",
       "position": "Développeur web frontend",
       "website": "https://surycat.io/#home",
       "startDate": "2020-04-06",
@@ -42,7 +66,7 @@
         "Git",
         "Scrum"
       ],
-      "endDate": "..."
+      "endDate": "2020-10-06"
     },
     {
       "company": "EURA NOVA",
@@ -219,14 +243,10 @@
         "JavaScript",
         "TypeScript",
         "Angular",
-        "jQuery",
         "React",
         "D3JS",
-        "PHP",
         "HTML",
-        "CSS",
-        "Bootstrap",
-        "WordPress"
+        "CSS"
       ]
     },
     {
@@ -234,43 +254,25 @@
       "level": "",
       "keywords": [
         "Python",
-        "Kotlin",
         "Docker",
-        "C",
-        "C++",
-        "Java",
-        "GlassFish",
-        "MatLab",
-        "TensorFlow 2.0",
-        "C embarqué",
-        "VHDL"
+        "TensorFlow 2.0"
       ]
-    },
-    {
-      "name": "Bases de données",
-      "level": "",
-      "keywords": ["MySQL", "PostGreSQL"]
     },
     {
       "name": "Graphisme et compétences artistiques",
       "level": "",
       "keywords": [
+        "Figma",
         "Adobe Illustrator",
         "Adobe Photoshop",
         "Adobe Lightroom",
-        "Adobe Indesign",
         "Photographie numérique"
       ]
     },
     {
       "name": "Gestion de projet",
       "level": "",
-      "keywords": ["Git", "Scrum"]
-    },
-    {
-      "name": "Autre compétences techniques",
-      "level": "",
-      "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
+      "keywords": ["Git", "Agile"]
     }
   ],
   "languages": [
@@ -513,9 +515,15 @@
         "summary": "Ayant commencé à courir régulièrement en mars 2019, je cours aujourd'hui 2 à 3 fois par semaine et j'ai déjà pu participé à 2 trails de 10 et 16km ! Ce sport est une façon pour moi de me dépasser et de m'évader au quotidien.",
         "img": "running"
       },
+
+      {
+        "name": "Escalade",
+        "summary": "L'escalade est mon dernier coup de coeur que je pratique désormais régulièrement chaque semaine en salle, et j'espère bientôt  dans des lieux plus naturels !",
+        "img": "heart"
+      },
       {
         "name": "Activités de montagne",
-        "summary": "Entre le ski, la randonnée, les activités d'eau-vive (rafting, canyoning...), les bivouacs dans la nature, j'adore la montagne et je me rends régulièrement dans le magnifique parc du Mercantour.",
+        "summary": "Entre le ski, la randonnée, les activités d'eau-vive (rafting, canyoning...), les bivouacs dans la nature, j'adore la montagne et je m'y rends régulièrement.",
         "img": "mountain"
       },
       {
@@ -542,12 +550,12 @@
       },
       {
         "name": "Théâtre",
-        "summary": "Cela fait plus d'un an que j'ai commencé le théâtre après avoir longtemps hésité, je prends désormais énormément de plaisir à m'exprimer sur scène !",
+        "summary": "J'ai eu la chance de faire 2 ans de théâtre après avoir longtemps hésité, et j'ai pris énormément de plaisir à m'exprimer sur scène !",
         "img": "theater-masks"
       },
       {
         "name": "Guitare",
-        "summary": "J'ai commencé la guitare il y a quelques années par curiosité, et je continue encore à pratiquer occasionnellement avec plaisir, en particulier des morceaux classiques.",
+        "summary": "J'ai commencé la guitare il y a quelques années par curiosité, et je continue encore à pratiquer occasionnellement avec plaisir.",
         "img": "guitar"
       }
     ],

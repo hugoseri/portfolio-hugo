@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hugo Serieys",
-    "label": "Always curious, I'm constantly looking for new technologies, methods, approaches to improve my daily work. Moreover, as I attach a great importance to graphical design, I always do my best to make pleasant and user-friendly interfaces. For me, every detail counts !",
+    "label": "My main goal as a developer is to help an ambitious and inspiring project with my technical skills... All of this surounded by a team that helps me grow on a daily basis !",
     "picture": "",
     "birth": {
       "date": "April 27, 1997"
@@ -10,8 +10,8 @@
     "phone": "+(33)6 22 14 94 19",
     "github": "https://github.com/hugoseri",
     "linkedin": "https://www.linkedin.com/in/hugoserieys/",
-    "flickr": "https://www.flickr.com/photos/hugoseri/",
-    "summary": "Computer science student",
+    "twitter": "https://twitter.com/hugoseri",
+    "summary": "Frontend developer",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,7 +23,30 @@
   },
   "work": [
     {
-      "company": "ENOVACOM Surycat",
+      "company": "ENOVACOM",
+      "position": "Front End Web Developer",
+      "website": "https://www.enovacom.com/",
+      "startDate": "2020-10-06",
+      "summary": "Full time job among the transverse team of the research department. Working on frontend and design related topics.",
+      "highlights": [
+        "Design system creation (design tokens, graphic charter, best UI/UX practices, UI templates, documentation)",
+        "React frontend migration of an Enovacom software",
+        "Figma software wireframing",
+        "React internal app development",
+        "Login layout integration (LESS + Javascript)"
+      ],
+      "skills": [
+        "React",
+        "CSS",
+        "MaterialUI",
+        "Docusaurus",
+        "Style dictionary",
+        "Figma"
+      ],
+      "endDate": "..."
+    },
+    {
+      "company": "ENOVACOM",
       "position": "Front End Web Developer",
       "website": "https://surycat.io/#home",
       "startDate": "2020-04-06",
@@ -42,7 +65,7 @@
         "Git",
         "Scrum"
       ],
-      "endDate": "..."
+      "endDate": "2020-10-06"
     },
     {
       "company": "EURA NOVA",
@@ -219,14 +242,10 @@
         "JavaScript",
         "TypeScript",
         "Angular",
-        "jQuery",
         "React",
         "D3JS",
-        "PHP",
         "HTML",
-        "CSS",
-        "Bootstrap",
-        "WordPress"
+        "CSS"
       ]
     },
     {
@@ -234,43 +253,25 @@
       "level": "",
       "keywords": [
         "Python",
-        "Kotlin",
         "Docker",
-        "C",
-        "C++",
-        "Java",
-        "GlassFish",
-        "MatLab",
-        "TensorFlow 2.0",
-        "Embedded C",
-        "VHDL"
+        "TensorFlow 2.0"
       ]
-    },
-    {
-      "name": "DataBases",
-      "level": "",
-      "keywords": ["MySQL", "PostGreSQL"]
     },
     {
       "name": "Graphic design and art related skills",
       "level": "",
       "keywords": [
+        "Figma",
         "Adobe Illustrator",
         "Adobe Photoshop",
         "Adobe Lightroom",
-        "Adobe Indesign",
         "Digital photography"
       ]
     },
     {
       "name": "Project management",
       "level": "",
-      "keywords": ["Git", "Scrum"]
-    },
-    {
-      "name": "Other technical skills",
-      "level": "",
-      "keywords": ["Solidworks", "AnyLogic", "Microsoft Excel"]
+      "keywords": ["Git", "Agile"]
     }
   ],
   "languages": [
@@ -523,6 +524,11 @@
         "img": "running"
       },
       {
+        "name": "Climbing",
+        "summary": "Climbing has been my last discovery and I now practice weekly in gym, but I hope to go for outdoor spots exploration !",
+        "img": "heart"
+      },
+      {
         "name": "Mountain activities",
         "summary": "Skiing, hiking, canyoning, rafting, wild-camping are fantastic activities I can do regularly in the french Alps.",
         "img": "mountain"
@@ -551,12 +557,12 @@
       },
       {
         "name": "Drama",
-        "summary": "It's been more than a year I started drama after a long period of hesitation, and I am now enjoying being on stage !",
+        "summary": "I spent two years enjoying drama after a long period of hesitation, and I had a lot of fun being on stage !",
         "img": "theater-masks"
       },
       {
         "name": "Guitar",
-        "summary": "I started playing the guitar a few years ago and I keep practicing regularly for fun, especially classical style.",
+        "summary": "I started playing the guitar a few years ago and I keep practicing regularly for fun.",
         "img": "guitar"
       }
     ],
