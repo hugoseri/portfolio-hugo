@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hugo Serieys",
-    "label": "My main goal as a developer is to help an ambitious and inspiring project with my technical skills... All of this surounded by a team that helps me grow on a daily basis !",
+    "label": "Building high quality software that people understand and enjoy using daily.",
     "picture": "",
     "birth": {
       "date": "April 27, 1997"
@@ -11,7 +11,7 @@
     "github": "https://github.com/hugoseri",
     "linkedin": "https://www.linkedin.com/in/hugoserieys/",
     "twitter": "https://twitter.com/hugoseri",
-    "summary": "Frontend developer",
+    "summary": "Full stack developer",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,6 +22,32 @@
     "profiles": []
   },
   "work": [
+    {
+      "company": "EndLess",
+      "position": "Full stack Developer",
+      "website": "https://endless.fr",
+      "startDate": "2021-09-06",
+      "summary": "Developer among tech team, working on frontend, backend and mobile software.",
+      "highlights": [
+        "Micro-services architecture using saga pattern",
+        "Backoffice frontend",
+        "External APIs workflow setup and integration for payment (Stripe, GoCardless) and invoicing (Zoho Books)",
+        "Lead on MY ENDLESS mobile app launch and development",
+        "Involved on setup and updates of web customer area",
+        "Major involvement on business related challenges (order taking system, route scheduling interface, invoicing and payment)",
+        "OTP authentication rework using JWT"
+      ],
+      "skills": [
+        "NodeJS",
+        "TypeScript",
+        "React",
+        "Prisma",
+        "Express",
+        "TanStack Query",
+        "Expo"
+      ],
+      "endDate": "2024-12-20"
+    },
     {
       "company": "ENOVACOM",
       "position": "Front End Web Developer",
@@ -43,7 +69,7 @@
         "Style dictionary",
         "Figma"
       ],
-      "endDate": "..."
+      "endDate": "2021-08-30"
     },
     {
       "company": "ENOVACOM",
@@ -236,42 +262,34 @@
   ],
   "skills": [
     {
-      "name": "Web development",
+      "name": "Backend development",
       "level": "",
       "keywords": [
-        "JavaScript",
         "TypeScript",
-        "Angular",
-        "React",
-        "D3JS",
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "General development",
-      "level": "",
-      "keywords": [
-        "Python",
+        "NodeJS",
+        "Prisma",
+        "Express",
+        "PostgreSQL",
         "Docker",
-        "TensorFlow 2.0"
+        "Redis"
       ]
     },
     {
-      "name": "Graphic design and art related skills",
+      "name": "Frontend development",
       "level": "",
       "keywords": [
-        "Figma",
-        "Adobe Illustrator",
-        "Adobe Photoshop",
-        "Adobe Lightroom",
-        "Digital photography"
+        "React",
+        "Tanstack Query",
+        "Tanstack Router"
       ]
     },
     {
-      "name": "Project management",
+      "name": "Mobile development",
       "level": "",
-      "keywords": ["Git", "Agile"]
+      "keywords": [
+        "React Native",
+        "Expo"
+      ]
     }
   ],
   "languages": [
@@ -291,9 +309,9 @@
       "percent": "30"
     },
     {
-      "language": "Japanese",
+      "language": "Danish",
       "fluency": "Beginner",
-      "percent": "10"
+      "percent": "1"
     }
   ],
   "projects": [
@@ -520,34 +538,29 @@
     [
       {
         "name": "Running",
-        "summary": "I started running regularly in march 2019, and I am now running twice or three times a week and I already ran two trail races of 10 and 16 km each ! This activity helps me push myself and disconnect on a daily basis.",
+        "summary": "Training four times a week towards a sub45 10k.",
         "img": "running"
       },
       {
-        "name": "Climbing",
-        "summary": "Climbing has been my last discovery and I now practice weekly in gym, but I hope to go for outdoor spots exploration !",
+        "name": "Calisthenics",
+        "summary": "Working on handstand and muscle ups mastery",
         "img": "heart"
       },
       {
-        "name": "Mountain activities",
-        "summary": "Skiing, hiking, canyoning, rafting, wild-camping are fantastic activities I can do regularly in the french Alps.",
+        "name": "General sport",
+        "summary": "Continuously looking for training methods to get better in many domains (endurance, strength, flexibility...)",
         "img": "mountain"
       },
       {
         "name": "Swimming",
-        "summary": "In parallel to running, I started swimming in September 2019 and I swim once or twice a week. As a very technical sport, it's a big challenge for me !",
+        "summary": "I try to swim at least once a week !",
         "img": "swimmer"
-      },
-      {
-        "name": "Martial arts",
-        "summary": "I've been doing two different martial arts for two years each: Taekwondo (reaching Blue belt) and Yoseikan Budo, both demanding and educational sports.",
-        "img": "heartbeat"
       }
     ],
     [
       {
         "name": "Photography",
-        "summary": "I've been practicing photography for several years now, and landscapes are my favorite models !",
+        "summary": "Trying to translate great moments into visual memories",
         "img": "camera"
       },
       {

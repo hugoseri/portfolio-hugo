@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hugo Serieys",
-    "label": "Mon objectif central en tant que développeur, c'est de mettre mes compétences techniques au service d'un projet ambitieux et inspirant... Le tout au sein d'une équipe qui me fait progresser au quotidien !",
+    "label": "Investi pour créer des outils que les gens comprennent et aiment utiliser au quotidien.",
     "picture": "",
     "birth": {
       "date": "27 Avril 1997"
@@ -22,12 +22,37 @@
     "profiles": []
   },
   "work": [
-
     {
-      "company": "ENOVACOM",
-      "position": "Développeur web frontend",
-      "website": "https://www.enovacom.com/",
-      "startDate": "2020-10-06",
+      "company": "EndLess",
+      "position": "Full stack Developer",
+      "website": "https://endless.fr",
+      "startDate": "2021-09-06",
+      "summary": "Développeur au sein de l'équipe tech.",
+      "highlights": [
+        "Création de l'architecture micro-services via saga pattern",
+        "Développement du frontend du back-office",
+        "Mise en place de toutes les API externes pour le paiement (Stripe, GoCardless) et la facturation (Zoho Books)",
+        "Responsable du lancement et de l'évolution de l'app mobile MY ENDLESS",
+        "Participation au développement et la gestion de l'espace web client",
+        "Implication majeure sur les problématiques métiers (prise de commande, planification des torunées, facturation)",
+        "Reprise de l'authentification par OTP via JWT"
+      ],
+      "skills": [
+        "NodeJS",
+        "TypeScript",
+        "React",
+        "Prisma",
+        "Express",
+        "TanStack Query",
+        "Expo"
+      ],
+      "endDate": "2024-12-20"
+    },
+    {
+      "company": "EndLess",
+      "position": "Full stack Developer",
+      "website": "https://endless.fr",
+      "startDate": "2021-09-06",
       "summary": "CDI au sein de l'équipe transverse de la R&D. Tâches liées à des sujets frontend et de design.",
       "highlights": [
         "Mise en place d'un design system (design tokens, charte graphique, bonnes pratiques UI/UX, templates, documentation)",
@@ -44,7 +69,7 @@
         "Style dictionary",
         "Figma"
       ],
-      "endDate": "..."
+      "endDate": "2021-08-30"
     },
     {
       "company": "ENOVACOM",
@@ -237,42 +262,34 @@
   ],
   "skills": [
     {
-      "name": "Développement web",
+      "name": "Développement backend",
       "level": "",
       "keywords": [
-        "JavaScript",
         "TypeScript",
-        "Angular",
-        "React",
-        "D3JS",
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "Développement général",
-      "level": "",
-      "keywords": [
-        "Python",
+        "NodeJS",
+        "Prisma",
+        "Express",
+        "PostgreSQL",
         "Docker",
-        "TensorFlow 2.0"
+        "Redis"
       ]
     },
     {
-      "name": "Graphisme et compétences artistiques",
+      "name": "Développement frontend",
       "level": "",
       "keywords": [
-        "Figma",
-        "Adobe Illustrator",
-        "Adobe Photoshop",
-        "Adobe Lightroom",
-        "Photographie numérique"
+        "React",
+        "Tanstack Query",
+        "Tanstack Router"
       ]
     },
     {
-      "name": "Gestion de projet",
+      "name": "Développement mobile",
       "level": "",
-      "keywords": ["Git", "Agile"]
+      "keywords": [
+        "React Native",
+        "Expo"
+      ]
     }
   ],
   "languages": [
@@ -287,9 +304,9 @@
       "percent": "30"
     },
     {
-      "language": "Japonais",
-      "fluency": "Débutant",
-      "percent": "10"
+      "language": "Danish",
+      "fluency": "Beginner",
+      "percent": "1"
     }
   ],
   "projects": [

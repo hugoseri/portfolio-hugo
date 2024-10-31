@@ -25,7 +25,7 @@ class Section extends React.Component{
                 <Projects lg={this.props.lg}
                           projects={this.props.resume.projects}
                           projects_text={this.props.additional_text.projects}/>
-                <Skills skills={this.props.resume.skills}
+                {/* <Skills skills={this.props.resume.skills}
                         languages={this.props.resume.languages}
                         languages_text={this.props.additional_text.languages}
                         skills_text={this.props.additional_text.skills}/>
@@ -33,7 +33,7 @@ class Section extends React.Component{
                     hobbies={this.props.resume.hobbies}
                     hobbies_text={this.props.additional_text.hobbies}/>
                 <Photos
-                    photos_text={this.props.additional_text.photos}/>
+                    photos_text={this.props.additional_text.photos}/> */}
                 <Footer/>
             </div>
         );

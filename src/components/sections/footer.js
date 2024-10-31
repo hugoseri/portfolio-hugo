@@ -8,7 +8,7 @@ class Footer extends React.Component {
                 <div className="container">
                     <div className="col-lg-12 col-sm-12">
                         <p>
-                            This website is developed in ReactJS by Hugo Serieys. Source code available <a href="https://github.com/hugoseri/portfolio-hugo" target="_blank" rel="noopener noreferrer">here</a>.
+                            This website was built in ReactJS in 2020 by Hugo Serieys. Source code available <a href="https://github.com/hugoseri/portfolio-hugo" target="_blank" rel="noopener noreferrer">here</a>.
                             <br/>
                             The template is made with <i className="fa fa-heart-o"
                                                                                 aria-hidden="true"></i> by <a
