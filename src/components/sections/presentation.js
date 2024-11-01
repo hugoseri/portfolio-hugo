@@ -11,7 +11,7 @@ class Presentation extends React.Component {
                 <div className="d-flex">
                   <img
                     className="d-flex img_me"
-                    src="img/me_nature_medium-min.png"
+                    src="img/me_2024_min.jpg"
                     alt="me"
                   />
                 </div>
